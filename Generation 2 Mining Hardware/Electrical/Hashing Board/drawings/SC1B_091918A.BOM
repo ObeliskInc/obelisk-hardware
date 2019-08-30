@@ -1,0 +1,1672 @@
+1	3	C3410	22pF/50V	MURATA             ;GRM1555C1H220J         ;C0402                        ;
+		C3411	22pF/50V	MURATA             ;GRM1555C1H220J         ;C0402                        ;
+		C3915	22pF/50V	MURATA             ;GRM1555C1H220J         ;C0402                        ;
+2	1	C3909	220pF/50V	TDK                ;C1005C0G1H221J050BA    ;C0402                        ;
+3	1	C3905	820pF/50V	TDK                ;C1005C0G1H821J050BA    ;C0402                        ;
+4	4	C3609	2200pF/16V	MURATA             ;GRM033R71C222K         ;C0201                        ;
+		C3610	2200pF/16V	MURATA             ;GRM033R71C222K         ;C0201                        ;
+		C3617	2200pF/16V	MURATA             ;GRM033R71C222K         ;C0201                        ;
+		C3618	2200pF/16V	MURATA             ;GRM033R71C222K         ;C0201                        ;
+5	5	C3401	0.01uF/16V	MURATA             ;GRM155R71C103K         ;C0402                        ;
+		C3413	0.01uF/16V	MURATA             ;GRM155R71C103K         ;C0402                        ;
+		C3414	0.01uF/16V	MURATA             ;GRM155R71C103K         ;C0402                        ;
+		C3415	0.01uF/16V	MURATA             ;GRM155R71C103K         ;C0402                        ;
+		C3416	0.01uF/16V	MURATA             ;GRM155R71C103K         ;C0402                        ;
+6	409	C201	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C202	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C203	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C204	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C205	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C206	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C207	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C208	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C209	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C210	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C214	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C215	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C301	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C302	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C303	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C304	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C305	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C306	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C307	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C308	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C309	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C310	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C314	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C315	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C401	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C402	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C403	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C404	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C405	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C406	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C407	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C408	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C409	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C410	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C414	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C415	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C501	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C502	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C503	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C504	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C505	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C506	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C507	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C508	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C509	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C510	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C514	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C515	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C601	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C602	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C603	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C604	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C605	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C606	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C607	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C608	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C609	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C610	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C614	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C615	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C701	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C702	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C703	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C704	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C705	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C706	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C707	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C708	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C709	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C710	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C714	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C715	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C801	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C802	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C803	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C804	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C805	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C806	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C807	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C808	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C809	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C810	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C814	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C815	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C901	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C902	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C903	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C904	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C905	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C906	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C907	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C908	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C909	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C910	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C914	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C915	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1001	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1002	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1003	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1004	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1005	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1006	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1007	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1008	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1009	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1010	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1014	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1015	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1101	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1102	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1103	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1104	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1105	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1106	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1107	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1108	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1109	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1110	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1114	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1115	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1201	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1202	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1203	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1204	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1205	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1206	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1207	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1208	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1209	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1210	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1214	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1215	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1301	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1302	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1303	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1304	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1305	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1306	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1307	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1308	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1309	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1310	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1314	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1315	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1401	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1402	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1403	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1404	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1405	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1406	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1407	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1408	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1409	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1410	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1414	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1415	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1501	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1502	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1503	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1504	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1505	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1506	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1507	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1508	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1509	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1510	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1514	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1515	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1601	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1602	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1603	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1604	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1605	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1606	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1607	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1608	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1609	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1610	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1614	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1615	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1701	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1702	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1703	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1704	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1705	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1706	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1707	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1708	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1709	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1710	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1714	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1715	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1801	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1802	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1803	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1804	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1805	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1806	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1807	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1808	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1809	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1810	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1814	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1815	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1901	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1902	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1903	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1904	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1905	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1906	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1907	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1908	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1909	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1910	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1914	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C1915	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2001	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2002	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2003	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2004	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2005	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2006	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2007	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2008	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2009	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2010	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2014	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2015	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2101	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2102	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2103	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2104	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2105	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2106	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2107	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2108	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2109	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2110	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2114	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2115	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2201	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2202	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2203	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2204	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2205	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2206	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2207	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2208	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2209	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2210	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2214	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2215	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2301	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2302	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2303	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2304	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2305	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2306	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2307	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2308	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2309	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2310	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2314	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2315	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2401	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2402	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2403	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2404	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2405	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2406	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2407	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2408	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2409	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2410	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2414	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2415	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2501	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2502	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2503	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2504	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2505	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2506	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2507	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2508	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2509	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2510	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2514	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2515	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2601	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2602	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2603	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2604	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2605	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2606	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2607	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2608	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2609	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2610	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2614	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2615	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2701	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2702	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2703	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2704	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2705	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2706	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2707	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2708	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2709	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2710	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2714	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2715	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2801	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2802	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2803	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2804	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2805	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2806	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2807	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2808	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2809	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2810	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2814	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2815	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2901	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2902	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2903	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2904	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2905	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2906	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2907	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2908	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2909	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2910	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2914	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C2915	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3001	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3002	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3003	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3004	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3005	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3006	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3007	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3008	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3009	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3010	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3014	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3015	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3101	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3102	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3103	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3104	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3105	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3106	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3107	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3108	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3109	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3110	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3114	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3115	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3201	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3202	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3203	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3204	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3205	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3206	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3207	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3208	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3209	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3210	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3214	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3215	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3301	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3302	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3303	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3304	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3305	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3306	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3307	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3308	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3309	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3310	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3313	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3315	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3402	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3403	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3404	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3405	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3406	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3407	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3408	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3501	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3601	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3602	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3603	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3604	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3605	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3606	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3607	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3608	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3701	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3702	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3703	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3704	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3705	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3706	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3708	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3709	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+		C3710	0.1uF/6.3V	MURATA             ;GRM155R710J104K        ;C0402                        ;
+7	8	C3801	0.1uF/16V	MURATA             ;GRM155R71C104K         ;C0402                        ;
+		C3803	0.1uF/16V	MURATA             ;GRM155R71C104K         ;C0402                        ;
+		C3804	0.1uF/16V	MURATA             ;GRM155R71C104K         ;C0402                        ;
+		C3805	0.1uF/16V	MURATA             ;GRM155R71C104K         ;C0402                        ;
+		C3926	0.1uF/16V	MURATA             ;GRM155R71C104K         ;C0402                        ;
+		C4001	0.1uF/16V	MURATA             ;GRM155R71C104K         ;C0402                        ;
+		C4002	0.1uF/16V	MURATA             ;GRM155R71C104K         ;C0402                        ;
+		C4007	0.1uF/16V	MURATA             ;GRM155R71C104K         ;C0402                        ;
+8	4	C3904	0.1uF/50V	TDK                ;C1005X7R1H104K050BB    ;C0402                        ;
+		C3910	0.1uF/50V	TDK                ;C1005X7R1H104K050BB    ;C0402                        ;
+		C3911	0.1uF/50V	TDK                ;C1005X7R1H104K050BB    ;C0402                        ;
+		C3912	0.1uF/50V	TDK                ;C1005X7R1H104K050BB    ;C0402                        ;
+9	2	C3914	0.033uF/50V	MURATA             ;GRM188R71H333J         ;C0603                        ;
+		C3924	0.033uF/50V	MURATA             ;GRM188R71H333J         ;C0603                        ;
+10	98	C211	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C212	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C311	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C312	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C411	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C412	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C417	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C511	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C512	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C517	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C611	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C612	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C617	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C711	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C712	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C717	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C811	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C812	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C817	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C911	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C912	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C917	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1011	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1012	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1017	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1111	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1112	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1117	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1211	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1212	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1217	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1311	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1312	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1317	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1411	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1412	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1417	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1511	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1512	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1517	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1611	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1612	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1617	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1711	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1712	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1717	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1811	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1812	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1817	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1911	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1912	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C1917	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2011	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2012	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2017	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2111	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2112	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2117	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2211	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2212	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2217	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2311	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2312	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2317	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2411	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2412	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2417	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2511	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2512	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2517	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2611	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2612	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2617	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2711	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2712	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2717	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2811	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2812	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2817	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2911	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2912	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C2917	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3011	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3012	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3017	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3111	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3112	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3117	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3211	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3212	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3217	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3311	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3312	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3317	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3409	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C3412	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C4003	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+		C4004	1.0uF/16V	MURATA             ;GRM21BR71C105K         ;C0805                        ;X7R
+11	1	C3913	4.7uF/10V	TDK                ;C2012X7R1A475M125AC    ;C0805                        ;
+12	32	C216	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C316	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C416	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C516	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C616	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C716	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C816	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C916	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1016	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1116	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1216	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1316	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1416	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1516	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1616	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1716	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1816	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C1916	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2016	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2116	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2216	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2316	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2416	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2516	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2616	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2716	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2816	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C2916	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C3016	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C3116	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C3216	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+		C3316	10uF/4V	MURATA             ;GRM155R60G106M         ;C0402                        ;X5R
+13	3	C3802	10uF/16V	TDK                ;CGA5L1X7R1C106K        ;C1206                        ;
+		C4005	10uF/16V	TDK                ;CGA5L1X7R1C106K        ;C1206                        ;
+		C4006	10uF/16V	TDK                ;CGA5L1X7R1C106K        ;C1206                        ;
+14	10	C3901	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3902	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3906	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3907	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3916	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3917	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3920	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3921	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3927	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+		C3928	10uF/35V	TDK                ;CGA5L1X7R1V106K160AC   ;C1206                        ;
+15	2	C3918	470uF/16V	PANASONIC          ;16SEPC470M             ;RC197\425+                   ;
+		C3903	470uF/16V	PANASONIC          ;16SEPC470M             ;RC197\425+                   ;
+16	4	C3908	1000uF/16V	PANASONIC          ;16SEPF1000M            ;RC197\425+                   ;ALT. Nippon Chemicon APSG160ELL102MH20S
+		C3922	1000uF/16V	PANASONIC          ;16SEPF1000M            ;RC197\425+                   ;ALT. Nippon Chemicon APSG160ELL102MH20S
+		C3923	1000uF/16V	PANASONIC          ;16SEPF1000M            ;RC197\425+                   ;ALT. Nippon Chemicon APSG160ELL102MH20S
+		C3925	1000uF/16V	PANASONIC          ;16SEPF1000M            ;RC197\425+                   ;ALT. Nippon Chemicon APSG160ELL102MH20S
+17	32	C213	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C317	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C413	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C513	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C613	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C713	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C813	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C913	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1013	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1113	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1213	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1313	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1413	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1513	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1613	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1713	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1813	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C1913	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2013	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2113	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2213	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2313	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2413	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2513	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2613	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2713	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2813	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C2913	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C3013	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C3113	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C3213	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+		C3314	C4A-0.1uF	AVX                ;W2A4ZC104MAT2A         ;ARRAY_W2A4                   ;
+18	4	R3701	0 OHM	VISHAY             ;CRCW04020000Z0ED       ;R0402                        ;
+		R3702	0 OHM	VISHAY             ;CRCW04020000Z0ED       ;R0402                        ;
+		R3924	0 OHM	VISHAY             ;CRCW04020000Z0ED       ;R0402                        ;
+		R4001	0 OHM	VISHAY             ;CRCW04020000Z0ED       ;R0402                        ;
+19	1	R3906	2.2 OHM	VISHAY             ;CRCW04022R20JN         ;R0402                        ;
+20	32	R202	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R302	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R402	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R502	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R602	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R702	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R802	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R902	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1002	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1102	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1202	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1302	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1402	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1502	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1602	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1702	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1802	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R1902	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2002	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2102	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2202	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2302	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2402	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2502	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2602	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2702	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2802	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R2902	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R3002	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R3102	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R3202	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+		R3302	5.1 OHM	VISHAY             ;CRCW20105R10JN         ;2010                         ;
+21	18	R3801	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3802	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3803	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3804	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3805	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3806	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3807	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3808	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3809	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3810	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3811	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3812	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3813	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3814	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3815	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3816	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R3817	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+		R4002	10 OHM	VISHAY             ;CRCW040210R0JN         ;R0402                        ;
+22	25	R3409	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3605	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3610	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3613	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3618	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3621	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3622	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3623	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3624	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3625	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3626	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3627	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3628	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3629	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3630	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3631	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3632	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3633	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3634	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3635	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3636	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3712	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3716	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3720	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+		R3725	33 OHM	VISHAY             ;CRCW020133R0JN         ;R0201                        ;
+23	1	R3408	220 OHM	VISHAY             ;CRCW0402220RJN         ;R0402                        ;
+24	4	R3410	330 OHM	VISHAY             ;CRCW0402330RJN         ;R0402                        ;
+		R3411	330 OHM	VISHAY             ;CRCW0402330RJN         ;R0402                        ;
+		R3412	330 OHM	VISHAY             ;CRCW0402330RJN         ;R0402                        ;
+		R4006	330 OHM	VISHAY             ;CRCW0402330RJN         ;R0402                        ;
+25	4	R201	100 OHM	VISHAY             ;CRCW0201330RJN         ;R0201                        ;SMALL IN THE ARRAY
+		R301	100 OHM	VISHAY             ;CRCW0201330RJN         ;R0201                        ;SMALL IN THE ARRAY
+		R3818	100 OHM	VISHAY             ;CRCW0201330RJN         ;R0201                        ;SMALL IN THE ARRAY
+		R3819	100 OHM	VISHAY             ;CRCW0201330RJN         ;R0201                        ;SMALL IN THE ARRAY
+26	17	R3407	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3416	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3417	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3418	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3601	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3602	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3603	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3604	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3703	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3704	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3705	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3706	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3708	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R3709	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R4003	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R4004	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+		R4005	1K	VISHAY             ;CRCW04021K00JN         ;R0402                        ;
+27	14	R408	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R508	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R608	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R708	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R808	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R908	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1008	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1108	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1208	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1308	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1408	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1508	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1608	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1708	1.2K	VISHAY             ;CRCW04021K20JN         ;R0201                        ;SMALL IN THE ARRAY
+28	5	R3828	4.7K	VISHAY             ;CRCW04024K70JN         ;R0402                        ;
+		R3829	4.7K	VISHAY             ;CRCW04024K70JN         ;R0402                        ;
+		R3830	4.7K	VISHAY             ;CRCW04024K70JN         ;R0402                        ;
+		R3923	4.7K	VISHAY             ;CRCW04024K70JN         ;R0402                        ;
+		R4007	4.7K	VISHAY             ;CRCW04024K70JN         ;R0402                        ;
+29	159	R206	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R207	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R209	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R210	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R306	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R307	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R309	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R310	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R406	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R407	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R410	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R411	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R506	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R507	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R510	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R511	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R606	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R607	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R610	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R611	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R706	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R707	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R710	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R711	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R806	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R807	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R810	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R811	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R906	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R907	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R910	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R911	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1006	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1007	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1010	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1011	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1106	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1107	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1110	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1111	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1206	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1207	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1210	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1211	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1306	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1307	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1310	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1311	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1406	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1407	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1410	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1411	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1506	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1507	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1510	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1511	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1606	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1607	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1610	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1611	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1706	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1707	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1710	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1711	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1806	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1807	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1808	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1810	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1811	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1906	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1907	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1908	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1910	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R1911	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2006	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2007	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2008	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2010	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2011	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2106	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2107	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2108	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2110	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2111	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2206	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2207	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2208	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2210	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2211	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2306	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2307	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2308	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2310	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2311	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2406	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2407	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2408	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2410	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2411	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2506	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2507	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2508	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2510	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2511	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2606	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2607	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2608	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2610	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2611	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2706	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2707	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2708	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2710	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2711	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2806	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2807	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2808	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2810	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2811	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2906	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2907	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2908	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2910	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R2911	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3006	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3007	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3008	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3010	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3011	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3106	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3107	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3108	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3110	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3111	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3206	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3207	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3208	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3210	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3211	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3306	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3307	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3308	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3310	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3311	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3401	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3402	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3403	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3404	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3405	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3406	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3501	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3502	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3710	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3711	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3820	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3821	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3822	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3823	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R4008	10K	VISHAY             ;CRCW020110K0JN         ;R0201                        ;SMALL IN THE ARRAY
+30	4	R3824	20K	VISHAY             ;CRCW020120K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3825	20K	VISHAY             ;CRCW020120K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3826	20K	VISHAY             ;CRCW020120K0JN         ;R0201                        ;SMALL IN THE ARRAY
+		R3827	20K	VISHAY             ;CRCW020120K0JN         ;R0201                        ;SMALL IN THE ARRAY
+31	32	R208	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R305	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R409	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R509	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R609	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R709	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R809	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R909	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1009	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1109	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1209	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1309	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1409	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1509	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1609	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1709	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1809	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R1909	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2009	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2109	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2209	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2309	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2409	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2509	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2609	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2709	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2809	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R2909	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R3009	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R3109	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R3209	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+		R3309	100K	VISHAY             ;CRCW0201100KJN         ;R0201                        ;SMALL IN THE ARRAY
+32	1	R3911	3.90K 1%	VISHAY             ;CRCW04023K90FK         ;R0402                        ;
+33	2	R3904	11.0K 1%	VISHAY             ;CRCW040211K0FK         ;R0402                        ;
+		R3912	11.0K 1%	VISHAY             ;CRCW040211K0FK         ;R0402                        ;
+34	4	R3907	20.0K 1%	VISHAY             ;CRCW040220K0FK         ;R0402                        ;
+		R3913	20.0K 1%	VISHAY             ;CRCW040220K0FK         ;R0402                        ;
+		R3916	20.0K 1%	VISHAY             ;CRCW040220K0FK         ;R0402                        ;
+		R3917	20.0K 1%	VISHAY             ;CRCW040220K0FK         ;R0402                        ;
+35	1	R3922	30.0K 1%	VISHAY             ;CRCW040230K0FK         ;R0402                        ;
+36	1	R3905	43.2K 1%	VISHAY             ;CRCW040243K2FK         ;R0402                        ;
+37	2	R3919	49.9K 1%	VISHAY             ;CRCW040249K9FK         ;R0402                        ;
+		R3918	49.9K 1%	VISHAY             ;CRCW040249K9FK         ;R0402                        ;
+38	1	R3908	60.4K 1%	VISHAY             ;CRCW040260K4FK         ;R0402                        ;
+39	1	R3903	100K 1%	VISHAY             ;CRCW0402100KFK         ;R0402                        ;
+40	2	RT3901	100KT	MURATA             ;NCU18WF104F60RB        ;R0603                        ;THERMISTOR
+		RT3902	100KT	MURATA             ;NCU18WF104F60RB        ;R0603                        ;THERMISTOR
+41	2	R3414	R4A-33 OHM	VISHAY             ;CRA06S083033RJ         ;ARRAY_CRA06S0831             ;
+		R3415	R4A-33 OHM	VISHAY             ;CRA06S083033RJ         ;ARRAY_CRA06S0831             ;
+42	64	R203	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R204	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R303	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R304	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R403	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R404	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R503	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R504	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R603	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R604	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R703	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R704	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R803	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R804	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R903	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R904	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1003	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1004	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1103	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1104	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1203	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1204	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1303	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1304	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1403	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1404	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1503	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1504	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1603	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1604	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1703	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1704	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1803	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1804	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1903	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R1904	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2003	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2004	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2103	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2104	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2203	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2204	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2303	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2304	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2403	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2404	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2503	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2504	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2603	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2604	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2703	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2704	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2803	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2804	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2903	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R2904	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R3003	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R3004	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R3103	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R3104	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R3203	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R3204	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R3303	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+		R3304	R4A-100 OHM	VISHAY             ;CRA06S083101RJ         ;ARRAY_CRA06S0831             ;
+43	32	R205	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R308	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R405	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R505	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R605	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R705	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R805	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R905	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1005	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1105	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1205	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1305	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1405	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1505	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1605	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1705	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1805	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R1905	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2005	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2105	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2205	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2305	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2405	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2505	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2605	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2705	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2805	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R2905	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R3005	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R3105	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R3205	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+		R3305	R4A-1M	VISHAY             ;CRA06S0831M00J         ;ARRAY_CRA06S0831             ;
+44	1	Y3401	8.00MHZ	CARDINAL COMP      ;CX532Z-A2B3C5-70-8.0D18;CRY_CX532                    ;
+45	2	L3901	1.2uH	COILCRAFT          ;XAL1060-122MEB         ;IND_XAL1060-401/1350         ;
+		L3902	1.2uH	COILCRAFT          ;XAL1060-122MEB         ;IND_XAL1060-401/1350         ;
+46	2	U3501	TMP37GRTZ	ANALOG DEVICES     ;TMP37GRTZ-REEL7        ;SOT-23-5                     ;
+		U3502	TMP37GRTZ	ANALOG DEVICES     ;TMP37GRTZ-REEL7        ;SOT-23-5                     ;
+47	1	U3902	AD5111BCPZ80	ANALOG DEVICES     ;AD5111BCPZ80           ;LFCSP8_UD_2X2MM              ;
+48	32	U201	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U301	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U401	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U501	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U601	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U701	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U801	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U901	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1001	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1101	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1201	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1301	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1401	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1501	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1601	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1701	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1801	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U1901	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2001	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2101	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2201	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2301	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2401	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2501	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2601	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2701	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2801	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U2901	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U3001	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U3101	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U3201	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+		U3301	BLAKE2B	CSS                ;BLAKE2B                ;BGA144_.8MM_10X10MM          ;
+49	2	D3901	DFLS1100-7	DIODES INC         ;DFLS1100-7             ;POWERDI_123                  ;
+		D3902	DFLS1100-7	DIODES INC         ;DFLS1100-7             ;POWERDI_123                  ;
+50	6	Q3901	BSC018NE2LS	INFINEON           ;BSC018NE2LSIATMA1      ;POWERPAK-SO8                 ;
+		Q3902	BSC018NE2LS	INFINEON           ;BSC018NE2LSIATMA1      ;POWERPAK-SO8                 ;
+		Q3903	BSC018NE2LS	INFINEON           ;BSC018NE2LSIATMA1      ;POWERPAK-SO8                 ;
+		Q3904	BSC018NE2LS	INFINEON           ;BSC018NE2LSIATMA1      ;POWERPAK-SO8                 ;
+		Q3905	BSC018NE2LS	INFINEON           ;BSC018NE2LSIATMA1      ;POWERPAK-SO8                 ;
+		Q3907	BSC018NE2LS	INFINEON           ;BSC018NE2LSIATMA1      ;POWERPAK-SO8                 ;
+51	1	U3901	LTC3855IFE#PBF	LINEAR TECH        ;LTC3855IFE#PBF         ;DIP38_SSOP_TP                ;
+52	1	F4001	FUSE-5A	LITTELFUSE         ;0451005.MRL            ;FUSE\LF-0451                 ;
+53	3	J3901	MINIFIT_JR_6P	MOLEX              ;0039301061             ;MOLEX\39-30-0060             ;
+		J3902	MINIFIT_JR_6P	MOLEX              ;0039301061             ;MOLEX\39-30-0060             ;
+		J3903	MINIFIT_JR_6P	MOLEX              ;0039301061             ;MOLEX\39-30-0060             ;
+54	1	L3401	BEAD1	MURATA             ;BLM21PG300SN1D         ;0805                         ;
+55	34	D201	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D302	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D401	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D501	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D601	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D701	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D801	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D901	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1001	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1101	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1201	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1301	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1401	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1501	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1601	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1701	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1801	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D1901	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2001	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2101	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2201	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2301	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2401	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2501	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2601	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2701	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2801	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D2901	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D3001	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D3101	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D3201	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D3301	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D3404	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+		D4006	IP4220CZ6	NEXPERIA           ;IP4220CZ6              ;TSOP-6                       ;
+56	42	Q203	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q303	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q403	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q503	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q603	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q703	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q803	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q903	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1003	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1103	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1203	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1303	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1403	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1503	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1603	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1703	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1803	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q1903	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2003	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2103	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2203	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2303	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2403	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2503	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2603	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2703	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2803	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q2903	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3003	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3103	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3203	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3303	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3501	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3502	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3503	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3504	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3505	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3506	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3507	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3508	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3801	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+		Q3802	MUN5235DW1	ON SEMI            ;MUN5235DW1T1G          ;SOT-363                      ;
+57	64	Q201	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q202	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q301	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q302	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q401	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q402	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q501	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q502	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q601	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q602	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q701	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q702	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q801	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q802	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q901	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q902	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1001	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1002	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1101	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1102	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1201	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1202	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1301	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1302	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1401	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1402	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1501	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1502	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1601	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1602	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1701	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1702	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1801	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1802	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1901	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q1902	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2001	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2002	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2101	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2102	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2201	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2202	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2301	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2302	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2401	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2402	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2501	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2502	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2601	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2602	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2701	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2702	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2801	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2802	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2901	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q2902	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q3001	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q3002	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q3101	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q3102	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q3201	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q3202	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q3301	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+		Q3302	MUN5335DW1	ON SEMI            ;MUN5335DW1T1G          ;SOT-363                      ;
+58	1	D4007	MMBD4148	ON SEMI            ;MMBD4148SE             ;SOT-23                       ;
+59	4	J4001	CON2	SAMTEC             ;TSW-102-23-T-S         ;SIP\2P                       ;
+		J4002	CON2	SAMTEC             ;TSW-102-23-T-S         ;SIP\2P                       ;
+		J4003	CON2	SAMTEC             ;TSW-102-23-T-S         ;SIP\2P                       ;
+		J4004	CON2	SAMTEC             ;TSW-102-23-T-S         ;SIP\2P                       ;
+60	2	J3401	HEADER 5X2	SAMTEC             ;TSW-105-23-T-D         ;J\10P                        ;
+		J3501	HEADER 5X2	SAMTEC             ;TSW-105-23-T-D         ;J\10P                        ;
+61	1	J4005	HEADER 10X2	SAMTEC             ;TSW-110-23-T-D         ;J\20P                        ;
+62	1	U3401	STM32F101V8	ST MICRO           ;STM32F101V8T6TR        ;LQFP100_14X14MM              ;
+63	32	D202	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D301	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D402	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D502	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D602	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D702	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D802	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D902	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1002	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1102	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1202	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1302	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1402	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1502	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1602	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1702	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1802	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D1902	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2002	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2102	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2202	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2302	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2402	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2502	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2602	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2702	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2802	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D2902	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D3002	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D3102	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D3202	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+		D3302	BAT30F4	ST MICRO           ;BAT30F4                ;DIODE_BAT30F4                ;
+64	2	U3702	SN74AVC4T245DR	TI                 ;SN74AVC4T245DR         ;DIP16_SO                     ;
+		U3701	SN74AVC4T245DR	TI                 ;SN74AVC4T245DR         ;DIP16_SO                     ;
+65	2	U3703	SN74LVC2G14DB	TI                 ;SN74LVC2G14DBVRE4      ;SOT-23-6                     ;
+		U4004	SN74LVC2G14DB	TI                 ;SN74LVC2G14DBVRE4      ;SOT-23-6                     ;
+66	2	U3801	CD4097BPWR	TI                 ;CD4097BPWR             ;DIP24\TSSOP                  ;
+		U3802	CD4097BPWR	TI                 ;CD4097BPWR             ;DIP24\TSSOP                  ;
+67	2	U3803	TLV272CDR	TI                 ;TLV272CDR              ;DIP8\SO                      ;
+		U4001	TLV272CDR	TI                 ;TLV272CDR              ;DIP8\SO                      ;
+68	6	U3601	SN74AVC8T245PW	TI                 ;SN74AVC8T245PW         ;DIP24\TSSOP                  ;
+		U3602	SN74AVC8T245PW	TI                 ;SN74AVC8T245PW         ;DIP24\TSSOP                  ;
+		U3603	SN74AVC8T245PW	TI                 ;SN74AVC8T245PW         ;DIP24\TSSOP                  ;
+		U3604	SN74AVC8T245PW	TI                 ;SN74AVC8T245PW         ;DIP24\TSSOP                  ;
+		U3704	SN74AVC8T245PW	TI                 ;SN74AVC8T245PW         ;DIP24\TSSOP                  ;
+		U3705	SN74AVC8T245PW	TI                 ;SN74AVC8T245PW         ;DIP24\TSSOP                  ;
+69	1	U4002	TPS70912DRVR	TI                 ;TPS70912DRVR           ;DIP6_WSON_TP                 ;
+70	1	U4003	TPS70933DRVR	TI                 ;TPS70933DRVR           ;DIP6_WSON_TP                 ;
+71	1	U3503	SN74LVC1G3157DBV	TI                 ;SN74LVC13157DBVR       ;SOT-23-6                     ;
+72	6	D3401	TLMG1100	VISHAY             ;TLMG1100-GS08          ;LED\0603                     ;
+		D3402	TLMG1100	VISHAY             ;TLMG1100-GS08          ;LED\0603                     ;
+		D3403	TLMG1100	VISHAY             ;TLMG1100-GS08          ;LED\0603                     ;
+		D4003	TLMG1100	VISHAY             ;TLMG1100-GS08          ;LED\0603                     ;
+		D4004	TLMG1100	VISHAY             ;TLMG1100-GS08          ;LED\0603                     ;
+		D4005	TLMG1100	VISHAY             ;TLMG1100-GS08          ;LED\0603                     ;
+73	176	J201	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J202	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J203	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J204	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J205	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J206	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J207	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J208	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J301	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J302	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J303	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J304	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J305	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J307	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J308	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J402	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J403	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J404	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J405	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J406	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J407	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J408	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J502	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J503	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J504	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J505	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J507	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J508	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J601	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J603	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J604	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J605	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J606	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J607	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J608	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J701	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J703	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J704	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J705	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J707	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J708	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J803	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J804	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J805	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J806	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J807	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J808	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J903	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J904	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J905	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J907	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J908	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1001	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1002	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1004	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1005	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1006	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1007	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1008	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1101	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1102	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1104	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1105	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1107	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1108	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1202	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1204	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1205	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1206	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1207	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1208	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1302	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1304	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1305	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1307	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1308	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1401	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1404	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1405	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1406	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1407	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1408	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1501	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1504	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1505	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1507	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1508	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1604	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1605	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1606	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1607	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1608	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1704	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1705	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1707	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1708	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1801	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1802	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1803	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1805	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1806	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1807	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1808	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1901	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1902	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1903	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1905	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1907	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J1908	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2002	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2003	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2005	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2006	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2007	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2008	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2102	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2103	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2105	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2107	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2108	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2201	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2203	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2205	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2206	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2207	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2208	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2301	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2303	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2305	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2307	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2308	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2403	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2405	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2406	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2407	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2408	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2503	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2505	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2507	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2508	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2601	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2602	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2605	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2606	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2607	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2608	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2701	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2702	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2705	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2707	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2708	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2802	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2805	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2806	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2807	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2808	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2902	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2905	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2907	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J2908	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3001	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3005	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3006	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3007	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3008	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3101	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3105	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3107	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3108	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3205	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3206	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3207	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3208	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3305	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3307	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+		J3308	BJC	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJC                     ;BOARD SHAPE - CLOSED
+74	80	J306	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J401	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J501	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J506	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J602	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J702	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J706	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J801	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J802	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J901	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J902	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J906	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1003	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1103	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1106	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1201	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1203	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1301	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1303	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1306	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1402	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1403	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1502	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1503	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1506	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1601	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1602	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1603	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1701	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1702	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1703	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1706	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1804	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1904	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J1906	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2001	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2004	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2101	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2104	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2106	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2202	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2204	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2302	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2304	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2306	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2401	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2402	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2404	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2501	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2502	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2504	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2506	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2603	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2604	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2703	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2704	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2706	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2801	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2803	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2804	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2901	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2903	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2904	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J2906	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3002	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3003	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3004	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3102	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3103	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3104	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3106	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3201	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3202	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3203	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3204	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3301	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3302	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3303	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3304	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+		J3306	BJO	OTEC JUMPER        ;DO NOT POPULATE        ;OTEC_BJO                     ;BOARD SHAPE - OPEN
+75	67	T201	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T202	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T301	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T302	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T401	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T402	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T501	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T502	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T601	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T602	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T701	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T702	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T801	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T802	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T901	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T902	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1001	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1002	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1101	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1102	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1201	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1202	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1301	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1302	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1401	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1402	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1501	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1502	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1601	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1602	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1701	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1702	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1801	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1802	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1901	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T1902	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2001	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2002	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2101	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2102	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2201	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2202	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2301	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2302	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2401	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2402	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2501	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2502	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2601	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2602	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2701	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2702	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2801	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2802	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2901	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T2902	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3001	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3002	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3101	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3102	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3201	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3202	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3301	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3302	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3403	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3404	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+		T3405	TP	OTEC TEST POINT    ;DO NOT POPULATE        ;TPTOP                        ;
+76	8	H4001	HOLE125-250	OTEC MOUNTING HOLE ;DO NOT POPULATE        ;HOLE125-250                  ;
+		H4002	HOLE125-250	OTEC MOUNTING HOLE ;DO NOT POPULATE        ;HOLE125-250                  ;
+		H4003	HOLE125-250	OTEC MOUNTING HOLE ;DO NOT POPULATE        ;HOLE125-250                  ;
+		H4004	HOLE125-250	OTEC MOUNTING HOLE ;DO NOT POPULATE        ;HOLE125-250                  ;
+		H4005	HOLE125-250	OTEC MOUNTING HOLE ;DO NOT POPULATE        ;HOLE125-250                  ;
+		H4006	HOLE125-250	OTEC MOUNTING HOLE ;DO NOT POPULATE        ;HOLE125-250                  ;
+		H4007	HOLE125-250	OTEC MOUNTING HOLE ;DO NOT POPULATE        ;HOLE125-250                  ;
+		H4008	HOLE125-250	OTEC MOUNTING HOLE ;DO NOT POPULATE        ;HOLE125-250                  ;
+77	24	R3606	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3607	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3608	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3609	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3611	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3612	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3614	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3615	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3616	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3617	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3619	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3620	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3713	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3714	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3715	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3717	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3718	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3719	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3721	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3722	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3723	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3724	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3726	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+		R3727	DNP-0201	--                 ;DO NOT POPULATE        ;R0201                        ;
+78	5	R3413	DNP	--                 ;DO NOT POPULATE        ;R0402                        ;
+		R3901	DNP	--                 ;DO NOT POPULATE        ;R0402                        ;
+		R3902	DNP	--                 ;DO NOT POPULATE        ;R0402                        ;
+		R3909	DNP	--                 ;DO NOT POPULATE        ;R0402                        ;
+		R3910	DNP	--                 ;DO NOT POPULATE        ;R0402                        ;
+79	1	C3919	DNP-C0402	--                 ;DO NOT POPULATE        ;C0402                        ;
+80	1	R4009	DNP-2010	--                 ;DO NOT POPULATE        ;2010                         ;
+81	2	Q3908	DNP-MOSFETN	--                 ;DO NOT POPULATE        ;POWERPAK-SO8                 ;
+		Q3906	DNP-MOSFETN	--                 ;DO NOT POPULATE        ;POWERPAK-SO8                 ;

@@ -1,0 +1,19 @@
+
+Checking for Invalid Pins in Package
+
+--------------------------------------------------
+Checking Schematic: SC1B_REVD
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects

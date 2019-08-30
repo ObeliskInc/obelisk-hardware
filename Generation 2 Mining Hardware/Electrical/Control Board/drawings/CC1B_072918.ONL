@@ -1,0 +1,6226 @@
+(PCB CC1B_072918
+ (description
+  (timeStamp "2018 07 29 14 58 52")
+  (program "EXPRESS.EXE" (Version "7.20.171"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "CC1B CONTROL BOARD")
+  (date "Sunday, July 29, 2018")
+  (document "SC071018")
+  (revision "A")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component HOLE
+   (place H1301
+    (property 
+     (timestamp 00F4CEB3)
+     (Value SLOT_M3X3MM)))
+   (place H1302
+    (property 
+     (timestamp 00F4CEB5)
+     (Value HOLE_M3X6)))
+   (place H1303
+    (property 
+     (timestamp 00F4CEB7)
+     (Value HOLE_M3X6)))
+   (place H1304
+    (property 
+     (timestamp 00F4CEB9)
+     (Value SLOT_M3X3MM))))
+  (component FUSE
+   (place F1501
+    (property 
+     (timestamp 00F4C025)
+     (Value FUSE-5A)))
+   (place F1502
+    (property 
+     (timestamp 00F4C0BB)
+     (Value PTC_1A)))
+   (place F1503
+    (property 
+     (timestamp 00F4C11A)
+     (Value PTC_1A5)))
+   (place F1504
+    (property 
+     (timestamp 00F4C14C)
+     (Value PTC_1A5)))
+   (place F1505
+    (property 
+     (timestamp 00F4C15F)
+     (Value PTC_1A5)))
+   (place F1506
+    (property 
+     (timestamp 00F4C173)
+     (Value PTC_1A5))))
+  (component IDT74CBTLV3257QG
+   (place U1002
+    (property 
+     (timestamp 0099574F)
+     (Value IDT74CBTLV3257QG))))
+  (component MUN5235DW1
+   (place Q801
+    (property 
+     (timestamp 00F4CA4A)
+     (Value MUN5235DW1)))
+   (place Q802
+    (property 
+     (timestamp 00F4CAFF)
+     (Value MUN5235DW1))))
+  (component CON2
+   (place J1301
+    (property 
+     (timestamp 00F30EA7)
+     (Value CON2)))
+   (place J1302
+    (property 
+     (timestamp 00F30ED2)
+     (Value CON2)))
+   (place J1304
+    (property 
+     (timestamp 00F30EF2)
+     (Value CON2)))
+   (place J1305
+    (property 
+     (timestamp 00F30EF6)
+     (Value CON2)))
+   (place J501
+    (property 
+     (timestamp 00F3A465)
+     (Value CON2))))
+  (component EVQ-PF008K
+   (place S801
+    (property 
+     (timestamp 00F51AE1)
+     (Value SW-RA))))
+  (component LED-553-GG
+   (place D801
+    (property 
+     (timestamp 00F51A5E)
+     (Value LED-553-GG)))
+   (place D802
+    (property 
+     (timestamp 00F51AB6)
+     (Value DNP_LED-553-GG))))
+  (component CON3
+   (place J1201
+    (property 
+     (timestamp 00F4BDC0)
+     (Value CON3)))
+   (place J1202
+    (property 
+     (timestamp 00F4BEEF)
+     (Value CON3)))
+   (place J1203
+    (property 
+     (timestamp 00F4BF19)
+     (Value DNP_CON3)))
+   (place J1204
+    (property 
+     (timestamp 00F4BF1D)
+     (Value DNP_CON3)))
+   (place J1205
+    (property 
+     (timestamp 00F4BF65)
+     (Value DNP_CON3)))
+   (place J1206
+    (property 
+     (timestamp 00F4BF69)
+     (Value DNP_CON3))))
+  (component MMBT3904LT1
+   (place Q901
+    (property 
+     (timestamp 009EB057)
+     (Value MMBT3904LT1)))
+   (place Q902
+    (property 
+     (timestamp 009EB0B6)
+     (Value MMBT3904LT1))))
+  (component LP2998MR
+   (place U1601
+    (property 
+     (timestamp 00978E13)
+     (Value LP2998MR))))
+  (component CON4
+   (place J1101
+    (property 
+     (timestamp 00F0FAF0)
+     (Value CONN-FAN)))
+   (place J1102
+    (property 
+     (timestamp 00F4C508)
+     (Value CONN-FAN)))
+   (place J1103
+    (property 
+     (timestamp 00F4C63D)
+     (Value CONN-FAN)))
+   (place J1104
+    (property 
+     (timestamp 00F4C7A6)
+     (Value CONN-FAN))))
+  (component "CAP NP"
+   (place C640
+    (property 
+     (timestamp 0096BD77)
+     (Value 0.1uF/6.3V)))
+   (place C641
+    (property 
+     (timestamp 0096BD7B)
+     (Value 0.1uF/6.3V)))
+   (place C642
+    (property 
+     (timestamp 0096BD7F)
+     (Value 0.1uF/6.3V)))
+   (place C610
+    (property 
+     (timestamp 0096B37D)
+     (Value 0.1uF/6.3V)))
+   (place C1201
+    (property 
+     (timestamp 00F4B4F3)
+     (Value 0.1uF/6.3V)))
+   (place C643
+    (property 
+     (timestamp 0096BDC9)
+     (Value 0.1uF/6.3V)))
+   (place C611
+    (property 
+     (timestamp 0096B381)
+     (Value 0.1uF/6.3V)))
+   (place C644
+    (property 
+     (timestamp 0096BDCD)
+     (Value 0.1uF/6.3V)))
+   (place C612
+    (property 
+     (timestamp 0096B385)
+     (Value 0.1uF/6.3V)))
+   (place C1202
+    (property 
+     (timestamp 00F4B527)
+     (Value 0.1uF/6.3V)))
+   (place C645
+    (property 
+     (timestamp 0096BDD1)
+     (Value 0.1uF/6.3V)))
+   (place C1203
+    (property 
+     (timestamp 00F4B6B1)
+     (Value 0.1uF/6.3V)))
+   (place C901
+    (property 
+     (timestamp 00A077DC)
+     (Value 0.1uF/16V)))
+   (place C613
+    (property 
+     (timestamp 0096B389)
+     (Value 0.1uF/6.3V)))
+   (place C646
+    (property 
+     (timestamp 0096BDD5)
+     (Value 0.1uF/6.3V)))
+   (place C902
+    (property 
+     (timestamp 0097B0E0)
+     (Value 15pF/50V)))
+   (place C1204
+    (property 
+     (timestamp 00F4B6B9)
+     (Value 0.1uF/6.3V)))
+   (place C614
+    (property 
+     (timestamp 0096B39A)
+     (Value 0.1uF/6.3V)))
+   (place C647
+    (property 
+     (timestamp 0096BDD9)
+     (Value 0.1uF/6.3V)))
+   (place C903
+    (property 
+     (timestamp 0097B0E4)
+     (Value 15pF/50V)))
+   (place C1205
+    (property 
+     (timestamp 00F4B799)
+     (Value 0.1uF/6.3V)))
+   (place C615
+    (property 
+     (timestamp 0096B4B8)
+     (Value 0.1uF/6.3V)))
+   (place C904
+    (property 
+     (timestamp 0097B0E8)
+     (Value 15pF/50V)))
+   (place C1206
+    (property 
+     (timestamp 00F4B7A1)
+     (Value 0.1uF/6.3V)))
+   (place C616
+    (property 
+     (timestamp 0096B4BC)
+     (Value 0.1uF/6.3V)))
+   (place C648
+    (property 
+     (timestamp 0096BE23)
+     (Value 0.1uF/6.3V)))
+   (place C617
+    (property 
+     (timestamp 0096B53A)
+     (Value 0.1uF/6.3V)))
+   (place C905
+    (property 
+     (timestamp 0097B0FC)
+     (Value 15pF/50V)))
+   (place C1207
+    (property 
+     (timestamp 00F4B7A5)
+     (Value 0.1uF/6.3V)))
+   (place C649
+    (property 
+     (timestamp 0096BE27)
+     (Value 0.1uF/6.3V)))
+   (place C618
+    (property 
+     (timestamp 0096B53E)
+     (Value 0.1uF/6.3V)))
+   (place C906
+    (property 
+     (timestamp 0097B54A)
+     (Value 0.1uF/16V)))
+   (place C1208
+    (property 
+     (timestamp 00F4B7A9)
+     (Value 0.1uF/6.3V)))
+   (place C1209
+    (property 
+     (timestamp 00F4B92A)
+     (Value 0.1uF/6.3V)))
+   (place C619
+    (property 
+     (timestamp 0096B5C9)
+     (Value 0.1uF/6.3V)))
+   (place C908
+    (property 
+     (timestamp 0097B615)
+     (Value 0.1uF/16V)))
+   (place C909
+    (property 
+     (timestamp 0097B61D)
+     (Value 0.1uF/16V)))
+   (place C720
+    (property 
+     (timestamp 00969502)
+     (Value 0.1uF/6.3V)))
+   (place C721
+    (property 
+     (timestamp 00969506)
+     (Value 0.1uF/6.3V)))
+   (place C722
+    (property 
+     (timestamp 0096950A)
+     (Value 0.1uF/6.3V)))
+   (place C723
+    (property 
+     (timestamp 0096A4DB)
+     (Value 0.1uF/6.3V)))
+   (place C1601
+    (property 
+     (timestamp 00978E60)
+     (Value 0.01uF/10V)))
+   (place C1602
+    (property 
+     (timestamp 00978EE5)
+     (Value 0.1uF/16V)))
+   (place C724
+    (property 
+     (timestamp 0096A4E3)
+     (Value 0.1uF/6.3V)))
+   (place C1603
+    (property 
+     (timestamp 00978EF2)
+     (Value 0.1uF/16V)))
+   (place C725
+    (property 
+     (timestamp 0096A4E7)
+     (Value 0.1uF/6.3V)))
+   (place C1604
+    (property 
+     (timestamp 00978EFF)
+     (Value 0.1uF/16V)))
+   (place C726
+    (property 
+     (timestamp 0096A4EB)
+     (Value 0.1uF/6.3V)))
+   (place C1605
+    (property 
+     (timestamp 00978EBC)
+     (Value 22uF/6.3V)))
+   (place C727
+    (property 
+     (timestamp 0096A4EF)
+     (Value 0.1uF/6.3V)))
+   (place C1606
+    (property 
+     (timestamp 00978F0C)
+     (Value 22uF/6.3V)))
+   (place C728
+    (property 
+     (timestamp 0096A4F3)
+     (Value 0.1uF/6.3V)))
+   (place C1607
+    (property 
+     (timestamp 009963B7)
+     (Value 22uF/6.3V)))
+   (place C729
+    (property 
+     (timestamp 0096A4F7)
+     (Value 0.1uF/6.3V)))
+   (place C1101
+    (property 
+     (timestamp 00F0FBCE)
+     (Value 0.1uF/16V)))
+   (place C1102
+    (property 
+     (timestamp 00F4C510)
+     (Value 0.1uF/16V)))
+   (place C801
+    (property 
+     (timestamp 00F4CBFE)
+     (Value 0.1uF/16V)))
+   (place C1103
+    (property 
+     (timestamp 00F4C645)
+     (Value 0.1uF/16V)))
+   (place C1104
+    (property 
+     (timestamp 00F4C7AE)
+     (Value 0.1uF/16V)))
+   (place C802
+    (property 
+     (timestamp 00F4CB8C)
+     (Value 0.1uF/6.3V)))
+   (place C650
+    (property 
+     (timestamp 0096BE2B)
+     (Value 0.1uF/6.3V)))
+   (place C651
+    (property 
+     (timestamp 0096BE2F)
+     (Value 0.1uF/6.3V)))
+   (place C620
+    (property 
+     (timestamp 0096B68C)
+     (Value 0.1uF/6.3V)))
+   (place C1210
+    (property 
+     (timestamp 00F4B932)
+     (Value 0.1uF/6.3V)))
+   (place C652
+    (property 
+     (timestamp 0096BE33)
+     (Value 0.1uF/6.3V)))
+   (place C621
+    (property 
+     (timestamp 0096B79B)
+     (Value 0.1uF/6.3V)))
+   (place C1211
+    (property 
+     (timestamp 00F4B936)
+     (Value 0.1uF/6.3V)))
+   (place C653
+    (property 
+     (timestamp 0096C545)
+     (Value 0.1uF/6.3V)))
+   (place C301
+    (property 
+     (timestamp 00967DAC)
+     (Value 18pF/50V)))
+   (place C622
+    (property 
+     (timestamp 0096B79F)
+     (Value 0.1uF/6.3V)))
+   (place C1212
+    (property 
+     (timestamp 00F4B93A)
+     (Value 0.1uF/6.3V)))
+   (place C654
+    (property 
+     (timestamp 0096C549)
+     (Value 0.1uF/6.3V)))
+   (place C910
+    (property 
+     (timestamp 0097B54E)
+     (Value 4.7uF/6.3V)))
+   (place C302
+    (property 
+     (timestamp 00967DCA)
+     (Value 18pF/50V)))
+   (place C1501
+    (property 
+     (timestamp 00F499BF)
+     (Value 0.01uF/16V)))
+   (place C623
+    (property 
+     (timestamp 0096B7A3)
+     (Value 0.1uF/6.3V)))
+   (place C655
+    (property 
+     (timestamp 0096C579)
+     (Value 0.1uF/6.3V)))
+   (place C911
+    (property 
+     (timestamp 0097B59E)
+     (Value 4.7uF/6.3V)))
+   (place C912
+    (property 
+     (timestamp 0097B619)
+     (Value 4.7uF/6.3V)))
+   (place C1502
+    (property 
+     (timestamp 00F49970)
+     (Value 0.1uF/16V)))
+   (place C624
+    (property 
+     (timestamp 0096B7A7)
+     (Value 0.1uF/6.3V)))
+   (place C656
+    (property 
+     (timestamp 0096C57D)
+     (Value 0.1uF/6.3V)))
+   (place C657
+    (property 
+     (timestamp 0096C6D5)
+     (Value 0.1uF/6.3V)))
+   (place C913
+    (property 
+     (timestamp 00EAF014)
+     (Value 0.1uF/16V)))
+   (place C625
+    (property 
+     (timestamp 0096B7AB)
+     (Value 0.1uF/6.3V)))
+   (place C1503
+    (property 
+     (timestamp 00F49A7F)
+     (Value 10uF/16V)))
+   (place C658
+    (property 
+     (timestamp 0096C782)
+     (Value 0.1uF/6.3V)))
+   (place C1504
+    (property 
+     (timestamp 00F499E2)
+     (Value 22uF/6.3V)))
+   (place C914
+    (property 
+     (timestamp 00EAF027)
+     (Value 0.1uF/16V)))
+   (place C626
+    (property 
+     (timestamp 0096B7AF)
+     (Value 0.1uF/6.3V)))
+   (place C659
+    (property 
+     (timestamp 0096C78F)
+     (Value 0.1uF/6.3V)))
+   (place C1505
+    (property 
+     (timestamp 00F499E6)
+     (Value 22uF/6.3V)))
+   (place C627
+    (property 
+     (timestamp 0096B8DB)
+     (Value 0.1uF/6.3V)))
+   (place C628
+    (property 
+     (timestamp 0096B8DF)
+     (Value 0.1uF/6.3V)))
+   (place C1506
+    (property 
+     (timestamp 00F49972)
+     (Value 6800pF/25V)))
+   (place C916
+    (property 
+     (timestamp 0097B59A)
+     (Value 0.1uF/16V)))
+   (place C1507
+    (property 
+     (timestamp 00F4C043)
+     (Value 0.1uF/16V)))
+   (place C629
+    (property 
+     (timestamp 0096B8E3)
+     (Value 0.1uF/6.3V)))
+   (place C1508
+    (property 
+     (timestamp 00F4C08D)
+     (Value 0.1uF/16V)))
+   (place C730
+    (property 
+     (timestamp 0096A4FB)
+     (Value 0.1uF/6.3V)))
+   (place C1509
+    (property 
+     (timestamp 00F4C1E8)
+     (Value 0.1uF/16V)))
+   (place C1001
+    (property 
+     (timestamp 00977829)
+     (Value 0.1uF/6.3V)))
+   (place C1610
+    (property 
+     (timestamp 00F2A8A5)
+     (Value 10uF/6.3V)))
+   (place C1002
+    (property 
+     (timestamp 00995880)
+     (Value 0.1uF/6.3V)))
+   (place C1611
+    (property 
+     (timestamp 00F2A8A7)
+     (Value 10uF/6.3V)))
+   (place C701
+    (property 
+     (timestamp 009691BF)
+     (Value 0.1uF/6.3V)))
+   (place C1003
+    (property 
+     (timestamp 0096C9FD)
+     (Value 0.1uF/6.3V)))
+   (place C702
+    (property 
+     (timestamp 009691C3)
+     (Value 0.1uF/6.3V)))
+   (place C1004
+    (property 
+     (timestamp 0096CA01)
+     (Value 10uF/6.3V)))
+   (place C1612
+    (property 
+     (timestamp 00F2AA68)
+     (Value 10uF/6.3V)))
+   (place C703
+    (property 
+     (timestamp 009691E9)
+     (Value 0.1uF/6.3V)))
+   (place C1613
+    (property 
+     (timestamp 00F2AA6C)
+     (Value 10uF/6.3V)))
+   (place C704
+    (property 
+     (timestamp 009691ED)
+     (Value 0.1uF/6.3V)))
+   (place C1614
+    (property 
+     (timestamp 00F2AB5A)
+     (Value 10uF/6.3V)))
+   (place C705
+    (property 
+     (timestamp 009691F1)
+     (Value 0.1uF/6.3V)))
+   (place C706
+    (property 
+     (timestamp 009691F5)
+     (Value 0.1uF/6.3V)))
+   (place C1616
+    (property 
+     (timestamp 00F2A834)
+     (Value 33pF/25V)))
+   (place C707
+    (property 
+     (timestamp 009691F9)
+     (Value 0.1uF/6.3V)))
+   (place C1617
+    (property 
+     (timestamp 00F494A0)
+     (Value 0.01uF/6.3V)))
+   (place C708
+    (property 
+     (timestamp 00969429)
+     (Value 0.1uF/6.3V)))
+   (place C709
+    (property 
+     (timestamp 0096942D)
+     (Value 0.1uF/6.3V)))
+   (place C1619
+    (property 
+     (timestamp 00F494AC)
+     (Value 0.1uF/6.3V)))
+   (place C201
+    (property 
+     (timestamp 0096799D)
+     (Value 0.1uF/16V)))
+   (place C1401
+    (property 
+     (timestamp 0098D222)
+     (Value 0.1uF/16V)))
+   (place C1402
+    (property 
+     (timestamp 0098D228)
+     (Value 0.1uF/16V)))
+   (place C1403
+    (property 
+     (timestamp 0098D22E)
+     (Value 0.1uF/16V)))
+   (place C1404
+    (property 
+     (timestamp 0098D234)
+     (Value 0.1uF/16V)))
+   (place C1405
+    (property 
+     (timestamp 0098D23A)
+     (Value 0.1uF/16V)))
+   (place C1406
+    (property 
+     (timestamp 0098D240)
+     (Value 0.1uF/16V)))
+   (place C660
+    (property 
+     (timestamp 0096AF5C)
+     (Value 10uF/6.3V)))
+   (place C1407
+    (property 
+     (timestamp 0098D252)
+     (Value 0.1uF/16V)))
+   (place C661
+    (property 
+     (timestamp 0096AF60)
+     (Value 10uF/6.3V)))
+   (place C630
+    (property 
+     (timestamp 0096B8E7)
+     (Value 0.1uF/6.3V)))
+   (place C662
+    (property 
+     (timestamp 0096B379)
+     (Value 10uF/6.3V)))
+   (place C663
+    (property 
+     (timestamp 0096C34E)
+     (Value 10uF/6.3V)))
+   (place C631
+    (property 
+     (timestamp 0096B8EB)
+     (Value 0.1uF/6.3V)))
+   (place C632
+    (property 
+     (timestamp 0096B8EF)
+     (Value 0.1uF/6.3V)))
+   (place C1510
+    (property 
+     (timestamp 00F4C1F5)
+     (Value 0.1uF/16V)))
+   (place C664
+    (property 
+     (timestamp 0096C35B)
+     (Value 10uF/6.3V)))
+   (place C633
+    (property 
+     (timestamp 0096BCA4)
+     (Value 0.1uF/6.3V)))
+   (place C1511
+    (property 
+     (timestamp 00F4C202)
+     (Value 0.1uF/16V)))
+   (place C601
+    (property 
+     (timestamp 0096AF38)
+     (Value 0.1uF/6.3V)))
+   (place C665
+    (property 
+     (timestamp 0096C58F)
+     (Value 10uF/6.3V)))
+   (place C634
+    (property 
+     (timestamp 0096BCA8)
+     (Value 0.1uF/6.3V)))
+   (place C1512
+    (property 
+     (timestamp 00F4C20F)
+     (Value 0.1uF/16V)))
+   (place C666
+    (property 
+     (timestamp 0096B6A5)
+     (Value 1.0uF/6.3V)))
+   (place C602
+    (property 
+     (timestamp 0096AF3C)
+     (Value 0.1uF/6.3V)))
+   (place C635
+    (property 
+     (timestamp 0096BCAC)
+     (Value 0.1uF/6.3V)))
+   (place C667
+    (property 
+     (timestamp 0096B6CC)
+     (Value 1.0uF/6.3V)))
+   (place C603
+    (property 
+     (timestamp 0096AF40)
+     (Value 0.1uF/6.3V)))
+   (place C1513
+    (property 
+     (timestamp 00F4C0CD)
+     (Value 10uF/16V)))
+   (place C636
+    (property 
+     (timestamp 0096BCB0)
+     (Value 0.1uF/6.3V)))
+   (place C668
+    (property 
+     (timestamp 0096B6D9)
+     (Value 1.0uF/6.3V)))
+   (place C604
+    (property 
+     (timestamp 0096AF44)
+     (Value 0.1uF/6.3V)))
+   (place C637
+    (property 
+     (timestamp 0096BCB4)
+     (Value 0.1uF/6.3V)))
+   (place C669
+    (property 
+     (timestamp 0096B702)
+     (Value 1.0uF/6.3V)))
+   (place C605
+    (property 
+     (timestamp 0096AF48)
+     (Value 0.1uF/6.3V)))
+   (place C638
+    (property 
+     (timestamp 0096BD6F)
+     (Value 0.1uF/6.3V)))
+   (place C606
+    (property 
+     (timestamp 0096AF4C)
+     (Value 0.1uF/6.3V)))
+   (place C639
+    (property 
+     (timestamp 0096BD73)
+     (Value 0.1uF/6.3V)))
+   (place C607
+    (property 
+     (timestamp 0096AF50)
+     (Value 0.1uF/6.3V)))
+   (place C608
+    (property 
+     (timestamp 0096AF54)
+     (Value 0.1uF/6.3V)))
+   (place C609
+    (property 
+     (timestamp 0096AF58)
+     (Value 0.1uF/6.3V)))
+   (place C710
+    (property 
+     (timestamp 00969431)
+     (Value 0.1uF/6.3V)))
+   (place C1620
+    (property 
+     (timestamp 00F494A4)
+     (Value 10uF/6.3V)))
+   (place C711
+    (property 
+     (timestamp 00969435)
+     (Value 0.1uF/6.3V)))
+   (place C1621
+    (property 
+     (timestamp 00F49694)
+     (Value 1.0uF/16V)))
+   (place C1301
+    (property 
+     (timestamp 00F31096)
+     (Value 0.1uF/6.3V)))
+   (place C712
+    (property 
+     (timestamp 00969439)
+     (Value 0.1uF/6.3V)))
+   (place C1622
+    (property 
+     (timestamp 00F49782)
+     (Value 1.0uF/16V)))
+   (place C1302
+    (property 
+     (timestamp 00F3237B)
+     (Value 0.1uF/6.3V)))
+   (place C1623
+    (property 
+     (timestamp 00F497C2)
+     (Value 1.0uF/16V)))
+   (place C713
+    (property 
+     (timestamp 009694E6)
+     (Value 0.1uF/6.3V)))
+   (place C1624
+    (property 
+     (timestamp 00F497C6)
+     (Value 1.0uF/16V)))
+   (place C714
+    (property 
+     (timestamp 009694EA)
+     (Value 0.1uF/6.3V)))
+   (place C715
+    (property 
+     (timestamp 009694EE)
+     (Value 0.1uF/6.3V)))
+   (place C716
+    (property 
+     (timestamp 009694F2)
+     (Value 0.1uF/6.3V)))
+   (place C717
+    (property 
+     (timestamp 009694F6)
+     (Value 0.1uF/6.3V)))
+   (place C718
+    (property 
+     (timestamp 009694FA)
+     (Value 0.1uF/6.3V)))
+   (place C719
+    (property 
+     (timestamp 009694FE)
+     (Value 0.1uF/6.3V))))
+  (component ASDK-32.768KHZ
+   (place U1402
+    (property 
+     (timestamp 0098D246)
+     (Value ASDK-32.768KHZ))))
+  (component AP6502SP-13
+   (place U1501
+    (property 
+     (timestamp 00F49955)
+     (Value AP6502SP-13))))
+  (component CAT24C256YI-G
+   (place U1301
+    (property 
+     (timestamp 00F3235F)
+     (Value CAT24C256YI-G))))
+  (component CAT809TTBI-GT3
+   (place U1403
+    (property 
+     (timestamp 00F520DF)
+     (Value CAT809TTBI-GT3))))
+  (component BLM18
+   (place L901
+    (property 
+     (timestamp 0097B50C)
+     (Value BLM18))))
+  (component MT41J256M16
+   (place U701
+    (property 
+     (timestamp 00968526)
+     (Value MT41J64M16))))
+  (component INDUCTOR
+   (place L1501
+    (property 
+     (timestamp 00F499B8)
+     (Value 10uH))))
+  (component LPS4018
+   (place L1601
+    (property 
+     (timestamp 00F2A82E)
+     (Value LPS4018-222MRC)))
+   (place L1602
+    (property 
+     (timestamp 00F2A956)
+     (Value LPS4018-222MRC))))
+  (component CONN-DM3CS
+   (place J1002
+    (property 
+     (timestamp 00F33790)
+     (Value CONN-DM3CS))))
+  (component ASFL1
+   (place Y901
+    (property 
+     (timestamp 00A0770A)
+     (Value ASFL1-25.000MHz))))
+  (component BEAD1
+   (place L601
+    (property 
+     (timestamp 0096B5B6)
+     (Value BLM18)))
+   (place L602
+    (property 
+     (timestamp 0096C521)
+     (Value BLM18))))
+  (component "HEADER 10X2"
+   (place J1211
+    (property 
+     (timestamp 00F4B1AE)
+     (Value "DNP_HEADER 10X2S")))
+   (place J1212
+    (property 
+     (timestamp 00F4B1B2)
+     (Value "DNP_HEADER 10X2S")))
+   (place J1306
+    (property 
+     (timestamp 00F521A8)
+     (Value "HEADER 10X2")))
+   (place J1207
+    (property 
+     (timestamp 00F4A7A0)
+     (Value "HEADER 10X2S")))
+   (place J1208
+    (property 
+     (timestamp 00F4A9D2)
+     (Value "HEADER 10X2S")))
+   (place J1209
+    (property 
+     (timestamp 00F4AAC6)
+     (Value "DNP_HEADER 10X2S")))
+   (place J1210
+    (property 
+     (timestamp 00F4AACA)
+     (Value "DNP_HEADER 10X2S"))))
+  (component LAN8710A-EZC
+   (place U901
+    (property 
+     (timestamp 0097B06B)
+     (Value LAN8710A-EZC))))
+  (component SN74LVC2G14DB
+   (place U1201
+    (property 
+     (timestamp 00F4B30D)
+     (Value SN74LVC2G14DB)))
+   (place U1202
+    (property 
+     (timestamp 00F4B523)
+     (Value SN74LVC2G14DB)))
+   (place U1203
+    (property 
+     (timestamp 00F4B6AD)
+     (Value SN74LVC2G14DB)))
+   (place U1204
+    (property 
+     (timestamp 00F4B6B5)
+     (Value SN74LVC2G14DB)))
+   (place U1205
+    (property 
+     (timestamp 00F4B795)
+     (Value DNP_SN74LVC2G14DB)))
+   (place U1206
+    (property 
+     (timestamp 00F4B79D)
+     (Value DNP_SN74LVC2G14DB)))
+   (place U1207
+    (property 
+     (timestamp 00F4B7AD)
+     (Value DNP_SN74LVC2G14DB)))
+   (place U1208
+    (property 
+     (timestamp 00F4B7B1)
+     (Value DNP_SN74LVC2G14DB)))
+   (place U1209
+    (property 
+     (timestamp 00F4B926)
+     (Value DNP_SN74LVC2G14DB)))
+   (place U1101
+    (property 
+     (timestamp 00F0FBCA)
+     (Value SN74LVC2G14DB)))
+   (place U1102
+    (property 
+     (timestamp 00F4C50C)
+     (Value SN74LVC2G14DB)))
+   (place U1103
+    (property 
+     (timestamp 00F4C641)
+     (Value SN74LVC2G14DB)))
+   (place U1104
+    (property 
+     (timestamp 00F4C7AA)
+     (Value SN74LVC2G14DB)))
+   (place U1210
+    (property 
+     (timestamp 00F4B92E)
+     (Value DNP_SN74LVC2G14DB)))
+   (place U1211
+    (property 
+     (timestamp 00F4B93E)
+     (Value DNP_SN74LVC2G14DB)))
+   (place U1212
+    (property 
+     (timestamp 00F4B942)
+     (Value DNP_SN74LVC2G14DB)))
+   (place U801
+    (property 
+     (timestamp 00F4CB88)
+     (Value SN74LVC2G14DB))))
+  (component ABM8G-24.000
+   (place Y301
+    (property 
+     (timestamp 00967DA4)
+     (Value ABM8G-24.000))))
+  (component AM3352-ZCZ3
+   (place U201
+    (property 
+     (timestamp 0096764E)
+     (Value AM3352-ZCZ3))))
+  (component CSEQ
+   (place U1401
+    (property 
+     (timestamp 00F4D170)
+     (Value CSEQ))))
+  (component TLMG1100
+   (place D1401
+    (property 
+     (timestamp 0098D276)
+     (Value TLMG1100)))
+   (place D1402
+    (property 
+     (timestamp 0098D282)
+     (Value DNP_TLMG1100)))
+   (place D1403
+    (property 
+     (timestamp 0098D28E)
+     (Value DNP_TLMG1100)))
+   (place D1404
+    (property 
+     (timestamp 0098D29A)
+     (Value DNP_TLMG1100))))
+  (component TP
+   (place T1401
+    (property 
+     (timestamp 00F4D258)
+     (Value TP)))
+   (place T1402
+    (property 
+     (timestamp 00F4D25C)
+     (Value TP)))
+   (place T1403
+    (property 
+     (timestamp 00F4D260)
+     (Value TP)))
+   (place T1404
+    (property 
+     (timestamp 00F50D75)
+     (Value TP)))
+   (place T301
+    (property 
+     (timestamp 00F4A754)
+     (Value TP)))
+   (place T201
+    (property 
+     (timestamp 00967873)
+     (Value TP)))
+   (place T601
+    (property 
+     (timestamp 0096B5D7)
+     (Value TP)))
+   (place T602
+    (property 
+     (timestamp 00F331B9)
+     (Value TP)))
+   (place T501
+    (property 
+     (timestamp 00F4FCC6)
+     (Value TP)))
+   (place T502
+    (property 
+     (timestamp 00F4FCCA)
+     (Value TP)))
+   (place T503
+    (property 
+     (timestamp 00F4FCCE)
+     (Value TP)))
+   (place T504
+    (property 
+     (timestamp 00F4FCD2)
+     (Value TP)))
+   (place T505
+    (property 
+     (timestamp 00F4FCD6)
+     (Value TP)))
+   (place T506
+    (property 
+     (timestamp 00F4FCDA)
+     (Value TP)))
+   (place T507
+    (property 
+     (timestamp 00F4FCDE)
+     (Value TP)))
+   (place T508
+    (property 
+     (timestamp 00F4FCE2)
+     (Value TP)))
+   (place T509
+    (property 
+     (timestamp 00F4FCE6)
+     (Value TP))))
+  (component CONN_LAN
+   (place J901
+    (property 
+     (timestamp 00F51B43)
+     (Value CONN_LAN))))
+  (component MT25QL128
+   (place U1001
+    (property 
+     (timestamp 00F552E5)
+     (Value MT25QL128))))
+  (component S1A
+   (place D1501
+    (property 
+     (timestamp 00F4C027)
+     (Value S1A-13-F))))
+  (component "HEADER 4X2"
+   (place J1001
+    (property 
+     (timestamp 0097C768)
+     (Value "HEADER 4X2"))))
+  (component R
+   (place R923
+    (property 
+     (timestamp 009EB059)
+     (Value 4.7K)))
+   (place R1201
+    (property 
+     (timestamp 00F527F4)
+     (Value "0 OHM")))
+   (place R924
+    (property 
+     (timestamp 009EB0BA)
+     (Value 4.7K)))
+   (place R925
+    (property 
+     (timestamp 00A07767)
+     (Value 10K)))
+   (place R1202
+    (property 
+     (timestamp 00F5281F)
+     (Value "0 OHM")))
+   (place R318
+    (property 
+     (timestamp 00968255)
+     (Value 2.2K)))
+   (place R926
+    (property 
+     (timestamp 00A0773D)
+     (Value "33 OHM")))
+   (place R1203
+    (property 
+     (timestamp 00F52866)
+     (Value "0 OHM")))
+   (place R927
+    (property 
+     (timestamp 00A07765)
+     (Value "33 OHM")))
+   (place R319
+    (property 
+     (timestamp 00968259)
+     (Value 2.2K)))
+   (place R1204
+    (property 
+     (timestamp 00F52889)
+     (Value "0 OHM")))
+   (place R928
+    (property 
+     (timestamp 00A0EC42)
+     (Value "33 OHM")))
+   (place R1205
+    (property 
+     (timestamp 00F528B9)
+     (Value "0 OHM")))
+   (place R929
+    (property 
+     (timestamp 00A0EEEE)
+     (Value "33 OHM")))
+   (place R420
+    (property 
+     (timestamp 00F23F50)
+     (Value 10K)))
+   (place R1206
+    (property 
+     (timestamp 00F528DC)
+     (Value "0 OHM")))
+   (place R421
+    (property 
+     (timestamp 00F23F54)
+     (Value 10K)))
+   (place R1207
+    (property 
+     (timestamp 00F5290C)
+     (Value "0 OHM")))
+   (place R422
+    (property 
+     (timestamp 00F55941)
+     (Value DNP)))
+   (place R710
+    (property 
+     (timestamp 0096964D)
+     (Value "49.9 OHM 1%")))
+   (place R1208
+    (property 
+     (timestamp 00F5292F)
+     (Value "0 OHM")))
+   (place R711
+    (property 
+     (timestamp 00969651)
+     (Value "49.9 OHM 1%")))
+   (place R423
+    (property 
+     (timestamp 00F55945)
+     (Value DNP)))
+   (place R1209
+    (property 
+     (timestamp 00F5295F)
+     (Value "0 OHM")))
+   (place R712
+    (property 
+     (timestamp 0096967D)
+     (Value "49.9 OHM 1%")))
+   (place R424
+    (property 
+     (timestamp 00F55949)
+     (Value 10K)))
+   (place R713
+    (property 
+     (timestamp 00969681)
+     (Value "49.9 OHM 1%")))
+   (place R425
+    (property 
+     (timestamp 00F5594D)
+     (Value 10K)))
+   (place R1310
+    (property 
+     (timestamp 00F48F57)
+     (Value 2.2K)))
+   (place R714
+    (property 
+     (timestamp 00969685)
+     (Value "49.9 OHM 1%")))
+   (place R426
+    (property 
+     (timestamp 00F55951)
+     (Value 10K)))
+   (place R1311
+    (property 
+     (timestamp 00F48F59)
+     (Value 2.2K)))
+   (place R715
+    (property 
+     (timestamp 00969689)
+     (Value "49.9 OHM 1%")))
+   (place R1601
+    (property 
+     (timestamp 00F2A966)
+     (Value "150K 1%")))
+   (place R716
+    (property 
+     (timestamp 009696B5)
+     (Value "49.9 OHM 1%")))
+   (place R1602
+    (property 
+     (timestamp 00F2A832)
+     (Value "180K 1%")))
+   (place R717
+    (property 
+     (timestamp 009696B9)
+     (Value "49.9 OHM 1%")))
+   (place R1603
+    (property 
+     (timestamp 00F2A96A)
+     (Value "180K 1%")))
+   (place R718
+    (property 
+     (timestamp 009696BD)
+     (Value "49.9 OHM 1%")))
+   (place R719
+    (property 
+     (timestamp 009696ED)
+     (Value "49.9 OHM 1%")))
+   (place R1606
+    (property 
+     (timestamp 00F2AC3C)
+     (Value 1K)))
+   (place R1607
+    (property 
+     (timestamp 00F2AC7A)
+     (Value 1K)))
+   (place R1608
+    (property 
+     (timestamp 00F2A830)
+     (Value "270K 1%")))
+   (place R1609
+    (property 
+     (timestamp 00F494B0)
+     (Value 1K)))
+   (place R1101
+    (property 
+     (timestamp 00F0FB6A)
+     (Value 10K)))
+   (place R1102
+    (property 
+     (timestamp 00F4C514)
+     (Value 10K)))
+   (place R1103
+    (property 
+     (timestamp 00F4C649)
+     (Value 10K)))
+   (place R1104
+    (property 
+     (timestamp 00F4C7B2)
+     (Value 10K)))
+   (place R1105
+    (property 
+     (timestamp 00F0FB9E)
+     (Value 10K)))
+   (place R320
+    (property 
+     (timestamp 0096814D)
+     (Value "33 OHM")))
+   (place R1106
+    (property 
+     (timestamp 00F4C520)
+     (Value 10K)))
+   (place R321
+    (property 
+     (timestamp 00968151)
+     (Value "33 OHM")))
+   (place R1107
+    (property 
+     (timestamp 00F4C655)
+     (Value 10K)))
+   (place R322
+    (property 
+     (timestamp 00968155)
+     (Value "33 OHM")))
+   (place R1108
+    (property 
+     (timestamp 00F4C7BE)
+     (Value 10K)))
+   (place R930
+    (property 
+     (timestamp 00A0EEF2)
+     (Value "33 OHM")))
+   (place R323
+    (property 
+     (timestamp 00968159)
+     (Value "33 OHM")))
+   (place R1109
+    (property 
+     (timestamp 00F0FB6C)
+     (Value 4.7K)))
+   (place R324
+    (property 
+     (timestamp 0096815D)
+     (Value "33 OHM")))
+   (place R1210
+    (property 
+     (timestamp 00F52982)
+     (Value "0 OHM")))
+   (place R325
+    (property 
+     (timestamp 00F4C364)
+     (Value "0 OHM")))
+   (place R901
+    (property 
+     (timestamp 0097B40E)
+     (Value 4.7K)))
+   (place R933
+    (property 
+     (timestamp 00F28662)
+     (Value 4.7K)))
+   (place R1211
+    (property 
+     (timestamp 00F529B2)
+     (Value "0 OHM")))
+   (place R902
+    (property 
+     (timestamp 0097B412)
+     (Value 4.7K)))
+   (place R326
+    (property 
+     (timestamp 00F4C368)
+     (Value "0 OHM")))
+   (place R1212
+    (property 
+     (timestamp 00F529D5)
+     (Value "0 OHM")))
+   (place R903
+    (property 
+     (timestamp 0097B416)
+     (Value 4.7K)))
+   (place R904
+    (property 
+     (timestamp 0097B422)
+     (Value 4.7K)))
+   (place R1501
+    (property 
+     (timestamp 00F499D6)
+     (Value "10.0K 1%")))
+   (place R1213
+    (property 
+     (timestamp 00F527EF)
+     (Value DNP)))
+   (place R905
+    (property 
+     (timestamp 0097B402)
+     (Value 4.7K)))
+   (place R1214
+    (property 
+     (timestamp 00F52823)
+     (Value DNP)))
+   (place R1502
+    (property 
+     (timestamp 00F49A74)
+     (Value 100K)))
+   (place R1215
+    (property 
+     (timestamp 00F52862)
+     (Value DNP)))
+   (place R906
+    (property 
+     (timestamp 0097B406)
+     (Value 4.7K)))
+   (place R1503
+    (property 
+     (timestamp 00F499D4)
+     (Value "26.1K 1%")))
+   (place R1216
+    (property 
+     (timestamp 00F52885)
+     (Value DNP)))
+   (place R907
+    (property 
+     (timestamp 0097B40A)
+     (Value 4.7K)))
+   (place R1504
+    (property 
+     (timestamp 00F49974)
+     (Value 6.8K)))
+   (place R1217
+    (property 
+     (timestamp 00F528B5)
+     (Value DNP)))
+   (place R908
+    (property 
+     (timestamp 0097B0C0)
+     (Value "49.9 OHM 1%")))
+   (place R909
+    (property 
+     (timestamp 0097B0C4)
+     (Value "49.9 OHM 1%")))
+   (place R720
+    (property 
+     (timestamp 009696F1)
+     (Value "49.9 OHM 1%")))
+   (place R1218
+    (property 
+     (timestamp 00F528D8)
+     (Value DNP)))
+   (place R401
+    (property 
+     (timestamp 00F30CDF)
+     (Value "33 OHM")))
+   (place R721
+    (property 
+     (timestamp 009696F5)
+     (Value "49.9 OHM 1%")))
+   (place R1219
+    (property 
+     (timestamp 00F52908)
+     (Value DNP)))
+   (place R722
+    (property 
+     (timestamp 009696F9)
+     (Value "49.9 OHM 1%")))
+   (place R402
+    (property 
+     (timestamp 00F39EAE)
+     (Value "0 OHM")))
+   (place R723
+    (property 
+     (timestamp 00969725)
+     (Value "49.9 OHM 1%")))
+   (place R403
+    (property 
+     (timestamp 00F39EC4)
+     (Value "0 OHM")))
+   (place R1001
+    (property 
+     (timestamp 0097787B)
+     (Value 10k)))
+   (place R724
+    (property 
+     (timestamp 00969729)
+     (Value "49.9 OHM 1%")))
+   (place R404
+    (property 
+     (timestamp 00F39EB9)
+     (Value 1K)))
+   (place R1002
+    (property 
+     (timestamp 009778D8)
+     (Value 10K)))
+   (place R725
+    (property 
+     (timestamp 0096972D)
+     (Value "49.9 OHM 1%")))
+   (place R1610
+    (property 
+     (timestamp 00F4967C)
+     (Value 1K)))
+   (place R405
+    (property 
+     (timestamp 00F39EC8)
+     (Value 1K)))
+   (place R1003
+    (property 
+     (timestamp 009778EC)
+     (Value 10K)))
+   (place R406
+    (property 
+     (timestamp 00F230A1)
+     (Value 10K)))
+   (place R1611
+    (property 
+     (timestamp 00F49897)
+     (Value 1K)))
+   (place R727
+    (property 
+     (timestamp 0096A14B)
+     (Value "49.9 OHM 1%")))
+   (place R1004
+    (property 
+     (timestamp 00977791)
+     (Value "33 OHM")))
+   (place R407
+    (property 
+     (timestamp 00F230A5)
+     (Value 10K)))
+   (place R728
+    (property 
+     (timestamp 0096A14F)
+     (Value "49.9 OHM 1%")))
+   (place R1005
+    (property 
+     (timestamp 009958BF)
+     (Value 4.7K)))
+   (place R408
+    (property 
+     (timestamp 00F2314E)
+     (Value 10K)))
+   (place R409
+    (property 
+     (timestamp 00F23152)
+     (Value 10K)))
+   (place R1006
+    (property 
+     (timestamp 00995B85)
+     (Value 4.7K)))
+   (place R1007
+    (property 
+     (timestamp 009A4F85)
+     (Value "0 OHM")))
+   (place R1008
+    (property 
+     (timestamp 0096CA4F)
+     (Value 10K)))
+   (place R1009
+    (property 
+     (timestamp 0096CA53)
+     (Value 10K)))
+   (place R801
+    (property 
+     (timestamp 00F4CBFA)
+     (Value 1K)))
+   (place R1110
+    (property 
+     (timestamp 00F4C518)
+     (Value 4.7K)))
+   (place R802
+    (property 
+     (timestamp 00F4CBFC)
+     (Value 1K)))
+   (place R1111
+    (property 
+     (timestamp 00F4C64D)
+     (Value 4.7K)))
+   (place R1112
+    (property 
+     (timestamp 00F4C7B6)
+     (Value 4.7K)))
+   (place R803
+    (property 
+     (timestamp 00F4CA44)
+     (Value "330 OHM")))
+   (place R1401
+    (property 
+     (timestamp 00EFCC09)
+     (Value 10K)))
+   (place R1113
+    (property 
+     (timestamp 00F0FCC5)
+     (Value DNP)))
+   (place R804
+    (property 
+     (timestamp 00F4CA48)
+     (Value "330 OHM")))
+   (place R1402
+    (property 
+     (timestamp 00EFCC0F)
+     (Value 10K)))
+   (place R805
+    (property 
+     (timestamp 00F4CAF7)
+     (Value "330 OHM")))
+   (place R1114
+    (property 
+     (timestamp 00F4C51C)
+     (Value DNP)))
+   (place R806
+    (property 
+     (timestamp 00F4CAFB)
+     (Value "330 OHM")))
+   (place R1115
+    (property 
+     (timestamp 00F4C651)
+     (Value DNP)))
+   (place R1403
+    (property 
+     (timestamp 00EFCC15)
+     (Value 10K)))
+   (place R1116
+    (property 
+     (timestamp 00F4C7BA)
+     (Value DNP)))
+   (place R1404
+    (property 
+     (timestamp 00EFCC1B)
+     (Value 10K)))
+   (place R1405
+    (property 
+     (timestamp 0098D24C)
+     (Value 1K)))
+   (place R1406
+    (property 
+     (timestamp 0098D27C)
+     (Value "330 OHM")))
+   (place R301
+    (property 
+     (timestamp 00967DAA)
+     (Value "0 OHM")))
+   (place R1407
+    (property 
+     (timestamp 0098D288)
+     (Value DNP)))
+   (place R910
+    (property 
+     (timestamp 0097B0C8)
+     (Value "49.9 OHM 1%")))
+   (place R1408
+    (property 
+     (timestamp 0098D294)
+     (Value DNP)))
+   (place R911
+    (property 
+     (timestamp 0097B0CC)
+     (Value "49.9 OHM 1%")))
+   (place R303
+    (property 
+     (timestamp 00967DA6)
+     (Value DNP)))
+   (place R1220
+    (property 
+     (timestamp 00F5292B)
+     (Value DNP)))
+   (place R1409
+    (property 
+     (timestamp 0098D2A0)
+     (Value DNP)))
+   (place R1221
+    (property 
+     (timestamp 00F5295B)
+     (Value DNP)))
+   (place R304
+    (property 
+     (timestamp 00A0FC6B)
+     (Value "33 OHM")))
+   (place R912
+    (property 
+     (timestamp 0097B7C8)
+     (Value "12.1K 1%")))
+   (place R1222
+    (property 
+     (timestamp 00F5297E)
+     (Value DNP)))
+   (place R913
+    (property 
+     (timestamp 0097B6FD)
+     (Value 4.7K)))
+   (place R305
+    (property 
+     (timestamp 00A0FC77)
+     (Value "33 OHM")))
+   (place R1223
+    (property 
+     (timestamp 00F529AE)
+     (Value DNP)))
+   (place R914
+    (property 
+     (timestamp 0097B701)
+     (Value 4.7K)))
+   (place R306
+    (property 
+     (timestamp 00F16A78)
+     (Value "0 OHM")))
+   (place R1224
+    (property 
+     (timestamp 00F529D1)
+     (Value DNP)))
+   (place R915
+    (property 
+     (timestamp 0097B705)
+     (Value 4.7K)))
+   (place R307
+    (property 
+     (timestamp 00F16A7C)
+     (Value "0 OHM")))
+   (place R916
+    (property 
+     (timestamp 009E36DB)
+     (Value "33 OHM")))
+   (place R308
+    (property 
+     (timestamp 00F16A80)
+     (Value "0 OHM")))
+   (place R917
+    (property 
+     (timestamp 00A0EEC1)
+     (Value "33 OHM")))
+   (place R309
+    (property 
+     (timestamp 00F16A84)
+     (Value "0 OHM")))
+   (place R918
+    (property 
+     (timestamp 00A0EEC5)
+     (Value "33 OHM")))
+   (place R919
+    (property 
+     (timestamp 00A0EEC9)
+     (Value "33 OHM")))
+   (place R410
+    (property 
+     (timestamp 00F23F28)
+     (Value 10K)))
+   (place R411
+    (property 
+     (timestamp 00F23F2C)
+     (Value 10K)))
+   (place R412
+    (property 
+     (timestamp 00F23F30)
+     (Value 10K)))
+   (place R1010
+    (property 
+     (timestamp 0096CA57)
+     (Value 10K)))
+   (place R413
+    (property 
+     (timestamp 00F23F34)
+     (Value 10K)))
+   (place R701
+    (property 
+     (timestamp 009695DA)
+     (Value "100 OHM 1%")))
+   (place R1011
+    (property 
+     (timestamp 0096CA5B)
+     (Value 10K)))
+   (place R414
+    (property 
+     (timestamp 00F23F38)
+     (Value 10K)))
+   (place R702
+    (property 
+     (timestamp 0096A153)
+     (Value 2.2K)))
+   (place R1012
+    (property 
+     (timestamp 0096CA5F)
+     (Value 10K)))
+   (place R415
+    (property 
+     (timestamp 00F23F3C)
+     (Value 10K)))
+   (place R703
+    (property 
+     (timestamp 009691AF)
+     (Value "240 OHM 1%")))
+   (place R1013
+    (property 
+     (timestamp 00F55626)
+     (Value DNP)))
+   (place R704
+    (property 
+     (timestamp 0096960F)
+     (Value "49.9 OHM 1%")))
+   (place R416
+    (property 
+     (timestamp 00F23F40)
+     (Value 10K)))
+   (place R1301
+    (property 
+     (timestamp 00F3D2C3)
+     (Value 10K)))
+   (place R705
+    (property 
+     (timestamp 0096961B)
+     (Value "49.9 OHM 1%")))
+   (place R417
+    (property 
+     (timestamp 00F23F44)
+     (Value DNP)))
+   (place R1302
+    (property 
+     (timestamp 00F30F4C)
+     (Value 10K)))
+   (place R706
+    (property 
+     (timestamp 00969629)
+     (Value "49.9 OHM 1%")))
+   (place R418
+    (property 
+     (timestamp 00F23F48)
+     (Value DNP)))
+   (place R1303
+    (property 
+     (timestamp 00F30F50)
+     (Value 10K)))
+   (place R707
+    (property 
+     (timestamp 00969637)
+     (Value "49.9 OHM 1%")))
+   (place R419
+    (property 
+     (timestamp 00F23F4C)
+     (Value DNP)))
+   (place R1304
+    (property 
+     (timestamp 00F30F54)
+     (Value 10K)))
+   (place R708
+    (property 
+     (timestamp 00969645)
+     (Value "49.9 OHM 1%")))
+   (place R1305
+    (property 
+     (timestamp 00F30F5C)
+     (Value 1K)))
+   (place R709
+    (property 
+     (timestamp 00969649)
+     (Value "49.9 OHM 1%")))
+   (place R1306
+    (property 
+     (timestamp 00F30FDD)
+     (Value 10K)))
+   (place R1307
+    (property 
+     (timestamp 00F30FE1)
+     (Value 10K)))
+   (place R201
+    (property 
+     (timestamp 0096798A)
+     (Value "49.9 OHM 1%")))
+   (place R1308
+    (property 
+     (timestamp 00F3104B)
+     (Value 1K)))
+   (place R1309
+    (property 
+     (timestamp 00F3D264)
+     (Value "33 OHM")))
+   (place R310
+    (property 
+     (timestamp 00F16A88)
+     (Value DNP)))
+   (place R311
+    (property 
+     (timestamp 00F16A8C)
+     (Value "0 OHM")))
+   (place R920
+    (property 
+     (timestamp 00A0EECD)
+     (Value "33 OHM")))
+   (place R312
+    (property 
+     (timestamp 00F16A90)
+     (Value "0 OHM")))
+   (place R921
+    (property 
+     (timestamp 009EB0A3)
+     (Value "330 OHM")))
+   (place R313
+    (property 
+     (timestamp 00F1D33A)
+     (Value 10K)))
+   (place R922
+    (property 
+     (timestamp 009EB0BE)
+     (Value "330 OHM"))))
+  (component NCP114ASN180T1G
+   (place U1604
+    (property 
+     (timestamp 00F4966D)
+     (Value NCP114ASN180T1G)))
+   (place U1605
+    (property 
+     (timestamp 00F497BA)
+     (Value NCP114ASN180T1G))))
+  (component TPS22967DSGT
+   (place U1603
+    (property 
+     (timestamp 00F494A8)
+     (Value TPS22967DSGT))))
+  (component "HEADER 5X2"
+   (place J1401
+    (property 
+     (timestamp 00EFCC03)
+     (Value "HEADER 5X2"))))
+  (component TPS62410DRCT
+   (place U1602
+    (property 
+     (timestamp 00F2A808)
+     (Value TPS62410DRCT))))
+  (component VBUS054B-HSF
+   (place D805
+    (property 
+     (timestamp 00F4CCF5)
+     (Value VBUS054B-HSF)))))
+ (library
+  (image "HEADER 10X2"
+   (property 
+    (sourcelib C:\\ORCADWIN\\EXPRESS\\LIBRARY\\DEVICE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname 17)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname 18)
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname 19)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname 20)
+     (pintype 4))))
+  (image R
+   (property 
+    (sourcelib C:\\ORCADWIN\\EXPRESS\\LIBRARY\\DEVICE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image ASFL1
+   (property 
+    (sourcelib C:\\PROJECTS\\VEEDER\\TLS450M-REVA\\DRAWINGS\\TLSM.OLB))
+   (pin 999 1
+    (property 
+     (pinname OE)
+     (pintype 0)))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 7)))
+   (pin 999 3
+    (property 
+     (pinname OUT)
+     (pintype 2)))
+   (pin 999 4
+    (property 
+     (pinname VCC)
+     (pintype 4))))
+  (image "CAP NP"
+   (property 
+    (sourcelib C:\\ORCADWIN\\EXPRESS\\LIBRARY\\DEVICE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "HEADER 4X2"
+   (property 
+    (sourcelib C:\\ORCADWIN\\EXPRESS\\LIBRARY\\DEVICE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4))))
+  (image BEAD1
+   (property 
+    (sourcelib C:\\PROJECTS\\AS-AND-E\\HBX1A-REVA\\DRAWINGS\\HXA1.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image CONN-DM3CS
+   (property 
+    (sourcelib C:\\PROJECTS\\KUVEE\\KV1-REVA\\DRAWINGS\\KV1LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname DAT2)
+     (pintype 1)))
+   (pin 999 2
+    (property 
+     (pinname DAT3)
+     (pintype 1)))
+   (pin 999 3
+    (property 
+     (pinname CMD)
+     (pintype 0)))
+   (pin 999 4
+    (property 
+     (pinname VDD)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname CLK)
+     (pintype 0)))
+   (pin 999 6
+    (property 
+     (pinname VSS)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname DAT0)
+     (pintype 1)))
+   (pin 999 8
+    (property 
+     (pinname DAT1)
+     (pintype 1)))
+   (pin 999 9
+    (property 
+     (pinname DETA)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname GND1)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname GND2)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname GND3)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname GND4)
+     (pintype 4))))
+  (image TP
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image CAT24C256YI-G
+   (property 
+    (sourcelib C:\\PROJECTS\\KUVEE\\KV1-REVA\\DRAWINGS\\KV1LIB.OLB))
+   (pin 999 6
+    (property 
+     (pinname SCL)
+     (pintype 0)))
+   (pin 999 5
+    (property 
+     (pinname SDA)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname A0)
+     (pintype 0)))
+   (pin 999 2
+    (property 
+     (pinname A1)
+     (pintype 0)))
+   (pin 999 3
+    (property 
+     (pinname A2)
+     (pintype 0)))
+   (pin 999 8
+    (property 
+     (pinname VCC)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname WP)
+     (pintype 0)))
+   (pin 999 4
+    (property 
+     (pinname GND)
+     (pintype 4))))
+  (image LED-553-GG
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 4
+    (property 
+     (pinname ANODE1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname ANODE2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname CATHODE1)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname CATHODE2)
+     (pintype 4))))
+  (image MT41J256M16
+   (property 
+    (sourcelib C:\\PROJECTS\\AS-AND-E\\HBX1A-REVA\\DRAWINGS\\HXA1.OLB))
+   (pin 999 E3
+    (property 
+     (pinname DQ0)
+     (pintype 1)))
+   (pin 999 F7
+    (property 
+     (pinname DQ1)
+     (pintype 1)))
+   (pin 999 F2
+    (property 
+     (pinname DQ2)
+     (pintype 1)))
+   (pin 999 F8
+    (property 
+     (pinname DQ3)
+     (pintype 1)))
+   (pin 999 H3
+    (property 
+     (pinname DQ4)
+     (pintype 1)))
+   (pin 999 H8
+    (property 
+     (pinname DQ5)
+     (pintype 1)))
+   (pin 999 G2
+    (property 
+     (pinname DQ6)
+     (pintype 1)))
+   (pin 999 H7
+    (property 
+     (pinname DQ7)
+     (pintype 1)))
+   (pin 999 N3
+    (property 
+     (pinname A0)
+     (pintype 0)))
+   (pin 999 P7
+    (property 
+     (pinname A1)
+     (pintype 0)))
+   (pin 999 P3
+    (property 
+     (pinname A2)
+     (pintype 0)))
+   (pin 999 N2
+    (property 
+     (pinname A3)
+     (pintype 0)))
+   (pin 999 P8
+    (property 
+     (pinname A4)
+     (pintype 0)))
+   (pin 999 P2
+    (property 
+     (pinname A5)
+     (pintype 0)))
+   (pin 999 R8
+    (property 
+     (pinname A6)
+     (pintype 0)))
+   (pin 999 R2
+    (property 
+     (pinname A7)
+     (pintype 0)))
+   (pin 999 T8
+    (property 
+     (pinname A8)
+     (pintype 0)))
+   (pin 999 R3
+    (property 
+     (pinname A9)
+     (pintype 0)))
+   (pin 999 L7
+    (property 
+     (pinname A10)
+     (pintype 0)))
+   (pin 999 R7
+    (property 
+     (pinname A11)
+     (pintype 0)))
+   (pin 999 N7
+    (property 
+     (pinname A12)
+     (pintype 0)))
+   (pin 999 T3
+    (property 
+     (pinname A13/NC)
+     (pintype 0)))
+   (pin 999 T7
+    (property 
+     (pinname A14/NC)
+     (pintype 0)))
+   (pin 999 M2
+    (property 
+     (pinname BA0)
+     (pintype 0)))
+   (pin 999 N8
+    (property 
+     (pinname BA1)
+     (pintype 0)))
+   (pin 999 M3
+    (property 
+     (pinname BA2)
+     (pintype 0)))
+   (pin 999 L2
+    (property 
+     (pinname CS#)
+     (pintype 0)))
+   (pin 999 J3
+    (property 
+     (pinname RAS#)
+     (pintype 0)))
+   (pin 999 K3
+    (property 
+     (pinname CAS#)
+     (pintype 0)))
+   (pin 999 L3
+    (property 
+     (pinname WE#)
+     (pintype 0)))
+   (pin 999 K9
+    (property 
+     (pinname CKE)
+     (pintype 0)))
+   (pin 999 E7
+    (property 
+     (pinname LDM)
+     (pintype 0)))
+   (pin 999 T2
+    (property 
+     (pinname RESET#)
+     (pintype 0)))
+   (pin 999 K1
+    (property 
+     (pinname ODT)
+     (pintype 0)))
+   (pin 999 J7
+    (property 
+     (pinname CK)
+     (pintype 0)))
+   (pin 999 K7
+    (property 
+     (pinname CK#)
+     (pintype 0)))
+   (pin 999 N1
+    (property 
+     (pinname VDD1)
+     (pintype 4)))
+   (pin 999 R1
+    (property 
+     (pinname VDD2)
+     (pintype 4)))
+   (pin 999 K2
+    (property 
+     (pinname VDD3)
+     (pintype 4)))
+   (pin 999 G7
+    (property 
+     (pinname VDD4)
+     (pintype 4)))
+   (pin 999 K8
+    (property 
+     (pinname VDD5)
+     (pintype 4)))
+   (pin 999 D9
+    (property 
+     (pinname VDD6)
+     (pintype 4)))
+   (pin 999 N9
+    (property 
+     (pinname VDD7)
+     (pintype 4)))
+   (pin 999 R9
+    (property 
+     (pinname VDD8)
+     (pintype 4)))
+   (pin 999 A1
+    (property 
+     (pinname VDDQ1)
+     (pintype 4)))
+   (pin 999 C1
+    (property 
+     (pinname VDDQ2)
+     (pintype 4)))
+   (pin 999 F1
+    (property 
+     (pinname VDDQ3)
+     (pintype 4)))
+   (pin 999 D2
+    (property 
+     (pinname VDDQ4)
+     (pintype 4)))
+   (pin 999 B1
+    (property 
+     (pinname VSS1)
+     (pintype 4)))
+   (pin 999 D1
+    (property 
+     (pinname VSS2)
+     (pintype 4)))
+   (pin 999 E1
+    (property 
+     (pinname VSS3)
+     (pintype 4)))
+   (pin 999 G1
+    (property 
+     (pinname VSS4)
+     (pintype 4)))
+   (pin 999 M1
+    (property 
+     (pinname VSS5)
+     (pintype 4)))
+   (pin 999 T1
+    (property 
+     (pinname VSS6)
+     (pintype 4)))
+   (pin 999 E2
+    (property 
+     (pinname VSS7)
+     (pintype 4)))
+   (pin 999 J2
+    (property 
+     (pinname VSS8)
+     (pintype 4)))
+   (pin 999 B3
+    (property 
+     (pinname VSS9)
+     (pintype 4)))
+   (pin 999 D8
+    (property 
+     (pinname VSS10)
+     (pintype 4)))
+   (pin 999 E8
+    (property 
+     (pinname VSS11)
+     (pintype 4)))
+   (pin 999 G8
+    (property 
+     (pinname VSS12)
+     (pintype 4)))
+   (pin 999 J8
+    (property 
+     (pinname VSS13)
+     (pintype 4)))
+   (pin 999 A9
+    (property 
+     (pinname VSS14)
+     (pintype 4)))
+   (pin 999 B9
+    (property 
+     (pinname VSS15)
+     (pintype 4)))
+   (pin 999 F9
+    (property 
+     (pinname VSS16)
+     (pintype 4)))
+   (pin 999 G9
+    (property 
+     (pinname VSS17)
+     (pintype 4)))
+   (pin 999 F3
+    (property 
+     (pinname LDQS)
+     (pintype 0)))
+   (pin 999 G3
+    (property 
+     (pinname LDQS#)
+     (pintype 0)))
+   (pin 999 M8
+    (property 
+     (pinname VREFA)
+     (pintype 0)))
+   (pin 999 H1
+    (property 
+     (pinname VREFQ)
+     (pintype 0)))
+   (pin 999 L8
+    (property 
+     (pinname ZQ)
+     (pintype 0)))
+   (pin 999 D3
+    (property 
+     (pinname UDM)
+     (pintype 4)))
+   (pin 999 C7
+    (property 
+     (pinname UDQS)
+     (pintype 0)))
+   (pin 999 B7
+    (property 
+     (pinname UDQS#)
+     (pintype 0)))
+   (pin 999 D7
+    (property 
+     (pinname DQ8)
+     (pintype 1)))
+   (pin 999 C3
+    (property 
+     (pinname DQ9)
+     (pintype 1)))
+   (pin 999 C8
+    (property 
+     (pinname DQ10)
+     (pintype 1)))
+   (pin 999 C2
+    (property 
+     (pinname DQ11)
+     (pintype 1)))
+   (pin 999 A7
+    (property 
+     (pinname DQ12)
+     (pintype 1)))
+   (pin 999 A2
+    (property 
+     (pinname DQ13)
+     (pintype 1)))
+   (pin 999 B8
+    (property 
+     (pinname DQ14)
+     (pintype 1)))
+   (pin 999 A3
+    (property 
+     (pinname DQ15)
+     (pintype 1)))
+   (pin 999 H2
+    (property 
+     (pinname VDDQ5)
+     (pintype 4)))
+   (pin 999 A8
+    (property 
+     (pinname VDDQ6)
+     (pintype 4)))
+   (pin 999 C9
+    (property 
+     (pinname VDDQ7)
+     (pintype 4)))
+   (pin 999 E9
+    (property 
+     (pinname VDDQ8)
+     (pintype 4)))
+   (pin 999 H9
+    (property 
+     (pinname VDDQ9)
+     (pintype 4)))
+   (pin 999 M9
+    (property 
+     (pinname VSS18)
+     (pintype 4)))
+   (pin 999 P9
+    (property 
+     (pinname VSS19)
+     (pintype 4)))
+   (pin 999 T9
+    (property 
+     (pinname VSS20)
+     (pintype 4)))
+   (pin 999 P1
+    (property 
+     (pinname VSS21)
+     (pintype 4)))
+   (pin 999 B2
+    (property 
+     (pinname VDD9)
+     (pintype 4)))
+   (pin 999 J1
+    (property 
+     (pinname NC1)
+     (pintype 4)))
+   (pin 999 L1
+    (property 
+     (pinname NC2)
+     (pintype 4)))
+   (pin 999 J9
+    (property 
+     (pinname NC3)
+     (pintype 4)))
+   (pin 999 L9
+    (property 
+     (pinname NC4)
+     (pintype 4)))
+   (pin 999 M7
+    (property 
+     (pinname NC5)
+     (pintype 4))))
+  (image VBUS054B-HSF
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname L1)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname L2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname L3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname L4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname VCC)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 4))))
+  (image "HEADER 5X2"
+   (property 
+    (sourcelib C:\\ORCADWIN\\EXPRESS\\LIBRARY\\DEVICE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4))))
+  (image S1A
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 2
+    (property 
+     (pinname ANODE1)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname C)
+     (pintype 4))))
+  (image AM3352-ZCZ3
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 F3
+    (property 
+     (pinname DDR_A0)
+     (pintype 2)))
+   (pin 999 H1
+    (property 
+     (pinname DDR_A1)
+     (pintype 2)))
+   (pin 999 E4
+    (property 
+     (pinname DDR_A2)
+     (pintype 2)))
+   (pin 999 C3
+    (property 
+     (pinname DDR_A3)
+     (pintype 2)))
+   (pin 999 C2
+    (property 
+     (pinname DDR_A4)
+     (pintype 2)))
+   (pin 999 B1
+    (property 
+     (pinname DDR_A5)
+     (pintype 2)))
+   (pin 999 D5
+    (property 
+     (pinname DDR_A6)
+     (pintype 2)))
+   (pin 999 E2
+    (property 
+     (pinname DDR_A7)
+     (pintype 2)))
+   (pin 999 D4
+    (property 
+     (pinname DDR_A8)
+     (pintype 2)))
+   (pin 999 C1
+    (property 
+     (pinname DDR_A9)
+     (pintype 2)))
+   (pin 999 F4
+    (property 
+     (pinname DDR_A10)
+     (pintype 2)))
+   (pin 999 F2
+    (property 
+     (pinname DDR_A11)
+     (pintype 2)))
+   (pin 999 E3
+    (property 
+     (pinname DDR_A12)
+     (pintype 2)))
+   (pin 999 H3
+    (property 
+     (pinname DDR_A13)
+     (pintype 2)))
+   (pin 999 H4
+    (property 
+     (pinname DDR_A14)
+     (pintype 2)))
+   (pin 999 D3
+    (property 
+     (pinname DDR_A15)
+     (pintype 2)))
+   (pin 999 C4
+    (property 
+     (pinname BA0)
+     (pintype 2)))
+   (pin 999 E1
+    (property 
+     (pinname BA1)
+     (pintype 2)))
+   (pin 999 B3
+    (property 
+     (pinname BA2)
+     (pintype 2)))
+   (pin 999 J4
+    (property 
+     (pinname DDR_VREF)
+     (pintype 0)))
+   (pin 999 J3
+    (property 
+     (pinname DDR_VTP)
+     (pintype 4)))
+   (pin 999 M3
+    (property 
+     (pinname DDR_D0)
+     (pintype 1)))
+   (pin 999 M4
+    (property 
+     (pinname DDR_D1)
+     (pintype 1)))
+   (pin 999 N1
+    (property 
+     (pinname DDR_D2)
+     (pintype 1)))
+   (pin 999 N2
+    (property 
+     (pinname DDR_D3)
+     (pintype 1)))
+   (pin 999 N3
+    (property 
+     (pinname DDR_D4)
+     (pintype 1)))
+   (pin 999 N4
+    (property 
+     (pinname DDR_D5)
+     (pintype 1)))
+   (pin 999 P3
+    (property 
+     (pinname DDR_D6)
+     (pintype 1)))
+   (pin 999 P4
+    (property 
+     (pinname DDR_D7)
+     (pintype 1)))
+   (pin 999 J1
+    (property 
+     (pinname DDR_D8)
+     (pintype 1)))
+   (pin 999 K1
+    (property 
+     (pinname DDR_D9)
+     (pintype 1)))
+   (pin 999 K2
+    (property 
+     (pinname DDR_D10)
+     (pintype 1)))
+   (pin 999 K3
+    (property 
+     (pinname DDR_D11)
+     (pintype 1)))
+   (pin 999 K4
+    (property 
+     (pinname DDR_D12)
+     (pintype 1)))
+   (pin 999 L3
+    (property 
+     (pinname DDR_D13)
+     (pintype 1)))
+   (pin 999 L4
+    (property 
+     (pinname DDR_D14)
+     (pintype 1)))
+   (pin 999 M1
+    (property 
+     (pinname DDR_D15)
+     (pintype 1)))
+   (pin 999 M2
+    (property 
+     (pinname DDR_DQM0)
+     (pintype 2)))
+   (pin 999 J2
+    (property 
+     (pinname DDR_DQM1)
+     (pintype 2)))
+   (pin 999 P1
+    (property 
+     (pinname DDR_DQS0)
+     (pintype 2)))
+   (pin 999 P2
+    (property 
+     (pinname DDR_DQS0#)
+     (pintype 2)))
+   (pin 999 L1
+    (property 
+     (pinname DDR_DQS1)
+     (pintype 2)))
+   (pin 999 L2
+    (property 
+     (pinname DDR_DQS1#)
+     (pintype 2)))
+   (pin 999 D2
+    (property 
+     (pinname DDR_CK)
+     (pintype 2)))
+   (pin 999 D1
+    (property 
+     (pinname DDR_CK#)
+     (pintype 2)))
+   (pin 999 H2
+    (property 
+     (pinname DDR_CS0#)
+     (pintype 2)))
+   (pin 999 G3
+    (property 
+     (pinname DDR_CKE)
+     (pintype 2)))
+   (pin 999 G4
+    (property 
+     (pinname DDR_RAS#)
+     (pintype 2)))
+   (pin 999 F1
+    (property 
+     (pinname DDR_CAS#)
+     (pintype 2)))
+   (pin 999 B2
+    (property 
+     (pinname DDR_WE#)
+     (pintype 2)))
+   (pin 999 G1
+    (property 
+     (pinname DDR_ODT)
+     (pintype 2)))
+   (pin 999 G2
+    (property 
+     (pinname DDR_RESET#)
+     (pintype 2)))
+   (pin 999 E16
+    (property 
+     (pinname UART0_TXD)
+     (pintype 2)))
+   (pin 999 D15
+    (property 
+     (pinname UART1_TXD)
+     (pintype 2)))
+   (pin 999 D16
+    (property 
+     (pinname UART1_RXD)
+     (pintype 0)))
+   (pin 999 J18
+    (property 
+     (pinname MII1_TXD3)
+     (pintype 2)))
+   (pin 999 K15
+    (property 
+     (pinname MII1_TXD2)
+     (pintype 2)))
+   (pin 999 E15
+    (property 
+     (pinname UART0_RXD)
+     (pintype 0)))
+   (pin 999 G17
+    (property 
+     (pinname UART2_RXD)
+     (pintype 0)))
+   (pin 999 G18
+    (property 
+     (pinname UART2_TXD)
+     (pintype 2)))
+   (pin 999 H16
+    (property 
+     (pinname MII1_COL)
+     (pintype 0)))
+   (pin 999 H17
+    (property 
+     (pinname MII1_CRS)
+     (pintype 0)))
+   (pin 999 J15
+    (property 
+     (pinname MII1_RXER)
+     (pintype 0)))
+   (pin 999 A10
+    (property 
+     (pinname RESET_OUT#)
+     (pintype 4)))
+   (pin 999 B18
+    (property 
+     (pinname NMI#)
+     (pintype 0)))
+   (pin 999 C11
+    (property 
+     (pinname TMS)
+     (pintype 0)))
+   (pin 999 A12
+    (property 
+     (pinname TCK)
+     (pintype 0)))
+   (pin 999 B11
+    (property 
+     (pinname TDI)
+     (pintype 0)))
+   (pin 999 A11
+    (property 
+     (pinname TDO)
+     (pintype 2)))
+   (pin 999 B10
+    (property 
+     (pinname TRST#)
+     (pintype 0)))
+   (pin 999 C14
+    (property 
+     (pinname EMU0)
+     (pintype 4)))
+   (pin 999 B14
+    (property 
+     (pinname EMU1)
+     (pintype 4)))
+   (pin 999 B5
+    (property 
+     (pinname RTC_PWRONRST#)
+     (pintype 0)))
+   (pin 999 C6
+    (property 
+     (pinname PMIC_POWER_EN)
+     (pintype 2)))
+   (pin 999 C5
+    (property 
+     (pinname EXT_WAKEUP)
+     (pintype 0)))
+   (pin 999 B4
+    (property 
+     (pinname RTC_KALDO_EN#)
+     (pintype 0)))
+   (pin 999 B15
+    (property 
+     (pinname PWRONRST#)
+     (pintype 0)))
+   (pin 999 A3
+    (property 
+     (pinname TESTOUT)
+     (pintype 4)))
+   (pin 999 A6
+    (property 
+     (pinname RTC_XTALIN)
+     (pintype 0)))
+   (pin 999 A4
+    (property 
+     (pinname RTC_XTALOUT)
+     (pintype 2)))
+   (pin 999 V10
+    (property 
+     (pinname XTALIN)
+     (pintype 0)))
+   (pin 999 U11
+    (property 
+     (pinname XTALOUT)
+     (pintype 2)))
+   (pin 999 C18
+    (property 
+     (pinname UART3_TXD)
+     (pintype 2)))
+   (pin 999 G15
+    (property 
+     (pinname UART3_RXD)
+     (pintype 0)))
+   (pin 999 A14
+    (property 
+     (pinname EMU4)
+     (pintype 4)))
+   (pin 999 C13
+    (property 
+     (pinname EMU2)
+     (pintype 4)))
+   (pin 999 D13
+    (property 
+     (pinname EMU3)
+     (pintype 4)))
+   (pin 999 L17
+    (property 
+     (pinname MII1_RXD3)
+     (pintype 0)))
+   (pin 999 L16
+    (property 
+     (pinname MII1_RXD2)
+     (pintype 0)))
+   (pin 999 M17
+    (property 
+     (pinname MDIO_DATA)
+     (pintype 3)))
+   (pin 999 M18
+    (property 
+     (pinname MDIO_CLK)
+     (pintype 3)))
+   (pin 999 T17
+    (property 
+     (pinname UART4_RXD)
+     (pintype 0)))
+   (pin 999 U17
+    (property 
+     (pinname UART4_TXD)
+     (pintype 2)))
+   (pin 999 U1
+    (property 
+     (pinname SYSBOOT8/UART5_TXD)
+     (pintype 2)))
+   (pin 999 U2
+    (property 
+     (pinname SYSBOOT9/UART5_RXD)
+     (pintype 0)))
+   (pin 999 L15
+    (property 
+     (pinname MII1_RXD1)
+     (pintype 0)))
+   (pin 999 M16
+    (property 
+     (pinname MII1_RXD0)
+     (pintype 0)))
+   (pin 999 J16
+    (property 
+     (pinname MII1_TXEN)
+     (pintype 2)))
+   (pin 999 J17
+    (property 
+     (pinname MII1_RXDV)
+     (pintype 0)))
+   (pin 999 K18
+    (property 
+     (pinname MII1_TXCLK)
+     (pintype 0)))
+   (pin 999 L18
+    (property 
+     (pinname MII1_RXCLK)
+     (pintype 0)))
+   (pin 999 K16
+    (property 
+     (pinname MII1_TXD1)
+     (pintype 2)))
+   (pin 999 K17
+    (property 
+     (pinname MII1_TXD0)
+     (pintype 2)))
+   (pin 999 R7
+    (property 
+     (pinname TIMER4)
+     (pintype 2)))
+   (pin 999 E18
+    (property 
+     (pinname TIMER7)
+     (pintype 0)))
+   (pin 999 F17
+    (property 
+     (pinname TIMER5)
+     (pintype 2)))
+   (pin 999 F18
+    (property 
+     (pinname TIMER6)
+     (pintype 0)))
+   (pin 999 A17
+    (property 
+     (pinname SPI0_SCLK)
+     (pintype 2)))
+   (pin 999 A16
+    (property 
+     (pinname SPI0_CS0#)
+     (pintype 2)))
+   (pin 999 C15
+    (property 
+     (pinname SPI0_CS1#)
+     (pintype 2)))
+   (pin 999 B17
+    (property 
+     (pinname SPI0_D0)
+     (pintype 4)))
+   (pin 999 B16
+    (property 
+     (pinname SPI0_D1)
+     (pintype 4)))
+   (pin 999 C16
+    (property 
+     (pinname I2C0_SCL)
+     (pintype 3)))
+   (pin 999 C17
+    (property 
+     (pinname I2C0_SDA)
+     (pintype 3)))
+   (pin 999 B6
+    (property 
+     (pinname AIN0)
+     (pintype 0)))
+   (pin 999 C7
+    (property 
+     (pinname AIN1)
+     (pintype 0)))
+   (pin 999 B7
+    (property 
+     (pinname AIN2)
+     (pintype 0)))
+   (pin 999 A7
+    (property 
+     (pinname AIN3)
+     (pintype 0)))
+   (pin 999 C8
+    (property 
+     (pinname AIN4)
+     (pintype 0)))
+   (pin 999 B8
+    (property 
+     (pinname AIN5)
+     (pintype 0)))
+   (pin 999 A8
+    (property 
+     (pinname AIN6)
+     (pintype 0)))
+   (pin 999 C9
+    (property 
+     (pinname AIN7)
+     (pintype 0)))
+   (pin 999 M15
+    (property 
+     (pinname USB0_CE)
+     (pintype 4)))
+   (pin 999 P15
+    (property 
+     (pinname USB0_VBUS)
+     (pintype 4)))
+   (pin 999 N18
+    (property 
+     (pinname USB0_DM)
+     (pintype 4)))
+   (pin 999 F16
+    (property 
+     (pinname USB0_DRVVBUS)
+     (pintype 2)))
+   (pin 999 P16
+    (property 
+     (pinname USB0_ID)
+     (pintype 4)))
+   (pin 999 N17
+    (property 
+     (pinname USB0_DP)
+     (pintype 4)))
+   (pin 999 P18
+    (property 
+     (pinname USB1_CE)
+     (pintype 4)))
+   (pin 999 T18
+    (property 
+     (pinname USB1_VBUS)
+     (pintype 4)))
+   (pin 999 F15
+    (property 
+     (pinname USB1_DRVVBUS)
+     (pintype 2)))
+   (pin 999 P17
+    (property 
+     (pinname USB1_ID)
+     (pintype 4)))
+   (pin 999 R17
+    (property 
+     (pinname USB1_DP)
+     (pintype 4)))
+   (pin 999 R18
+    (property 
+     (pinname USB1_DM)
+     (pintype 4)))
+   (pin 999 R1
+    (property 
+     (pinname SYSBOOT0/GPIO2_6)
+     (pintype 4)))
+   (pin 999 R2
+    (property 
+     (pinname SYSBOOT1/GPIO2_7)
+     (pintype 4)))
+   (pin 999 R3
+    (property 
+     (pinname SYSBOOT2/GPIO2_8)
+     (pintype 4)))
+   (pin 999 R4
+    (property 
+     (pinname SYSBOOT3/GPIO2_9)
+     (pintype 4)))
+   (pin 999 T1
+    (property 
+     (pinname SYSBOOT4/GPIO2_10)
+     (pintype 4)))
+   (pin 999 T2
+    (property 
+     (pinname SYSBOOT5/GPIO2_11)
+     (pintype 4)))
+   (pin 999 T3
+    (property 
+     (pinname SYSBOOT6/GPIO2_12)
+     (pintype 4)))
+   (pin 999 T4
+    (property 
+     (pinname SYSBOOT7/GPIO2_13)
+     (pintype 4)))
+   (pin 999 U3
+    (property 
+     (pinname SYSBOOT10/GPIO2_16)
+     (pintype 4)))
+   (pin 999 U4
+    (property 
+     (pinname SYSBOOT11/GPIO2_17)
+     (pintype 4)))
+   (pin 999 V2
+    (property 
+     (pinname SYSBOOT12/GPIO0_8)
+     (pintype 4)))
+   (pin 999 V3
+    (property 
+     (pinname SYSBOOT13/GPIO0_9)
+     (pintype 4)))
+   (pin 999 V4
+    (property 
+     (pinname SYSBOOT14/GPIO0_10)
+     (pintype 4)))
+   (pin 999 T5
+    (property 
+     (pinname SYSBOOT15/GPIO0_11)
+     (pintype 4)))
+   (pin 999 U13
+    (property 
+     (pinname RSVD2)
+     (pintype 4)))
+   (pin 999 V13
+    (property 
+     (pinname RSVD3)
+     (pintype 4)))
+   (pin 999 R12
+    (property 
+     (pinname RSVD4)
+     (pintype 4)))
+   (pin 999 T12
+    (property 
+     (pinname RSVD5)
+     (pintype 4)))
+   (pin 999 U12
+    (property 
+     (pinname RSVD6)
+     (pintype 4)))
+   (pin 999 T11
+    (property 
+     (pinname RSVD8)
+     (pintype 4)))
+   (pin 999 T10
+    (property 
+     (pinname RSVD9)
+     (pintype 4)))
+   (pin 999 U10
+    (property 
+     (pinname RSVD10)
+     (pintype 4)))
+   (pin 999 V12
+    (property 
+     (pinname RSVD7)
+     (pintype 4)))
+   (pin 999 T13
+    (property 
+     (pinname RSVD1)
+     (pintype 4)))
+   (pin 999 A1
+    (property 
+     (pinname VSS_1)
+     (pintype 4)))
+   (pin 999 A18
+    (property 
+     (pinname VSS_2)
+     (pintype 4)))
+   (pin 999 F8
+    (property 
+     (pinname VSS_3)
+     (pintype 4)))
+   (pin 999 G8
+    (property 
+     (pinname VSS_4)
+     (pintype 4)))
+   (pin 999 G9
+    (property 
+     (pinname VSS_5)
+     (pintype 4)))
+   (pin 999 G11
+    (property 
+     (pinname VSS_6)
+     (pintype 4)))
+   (pin 999 G12
+    (property 
+     (pinname VSS_7)
+     (pintype 4)))
+   (pin 999 H6
+    (property 
+     (pinname VSS_8)
+     (pintype 4)))
+   (pin 999 H7
+    (property 
+     (pinname VSS_9)
+     (pintype 4)))
+   (pin 999 H8
+    (property 
+     (pinname VSS_10)
+     (pintype 4)))
+   (pin 999 H9
+    (property 
+     (pinname VSS_11)
+     (pintype 4)))
+   (pin 999 H10
+    (property 
+     (pinname VSS_12)
+     (pintype 4)))
+   (pin 999 H12
+    (property 
+     (pinname VSS_13)
+     (pintype 4)))
+   (pin 999 J6
+    (property 
+     (pinname VSS_14)
+     (pintype 4)))
+   (pin 999 J7
+    (property 
+     (pinname VSS_15)
+     (pintype 4)))
+   (pin 999 J8
+    (property 
+     (pinname VSS_16)
+     (pintype 4)))
+   (pin 999 J9
+    (property 
+     (pinname VSS_17)
+     (pintype 4)))
+   (pin 999 J10
+    (property 
+     (pinname VSS_18)
+     (pintype 4)))
+   (pin 999 J11
+    (property 
+     (pinname VSS_19)
+     (pintype 4)))
+   (pin 999 K7
+    (property 
+     (pinname VSS_20)
+     (pintype 4)))
+   (pin 999 K9
+    (property 
+     (pinname VSS_21)
+     (pintype 4)))
+   (pin 999 K10
+    (property 
+     (pinname VSS_22)
+     (pintype 4)))
+   (pin 999 K11
+    (property 
+     (pinname VSS_23)
+     (pintype 4)))
+   (pin 999 L10
+    (property 
+     (pinname VSS_24)
+     (pintype 4)))
+   (pin 999 L11
+    (property 
+     (pinname VSS_25)
+     (pintype 4)))
+   (pin 999 L12
+    (property 
+     (pinname VSS_26)
+     (pintype 4)))
+   (pin 999 L13
+    (property 
+     (pinname VSS_27)
+     (pintype 4)))
+   (pin 999 M6
+    (property 
+     (pinname VSS_28)
+     (pintype 4)))
+   (pin 999 M7
+    (property 
+     (pinname VSS_29)
+     (pintype 4)))
+   (pin 999 M8
+    (property 
+     (pinname VSS_30)
+     (pintype 4)))
+   (pin 999 M9
+    (property 
+     (pinname VSS_31)
+     (pintype 4)))
+   (pin 999 M10
+    (property 
+     (pinname VSS_32)
+     (pintype 4)))
+   (pin 999 M12
+    (property 
+     (pinname VSS_33)
+     (pintype 4)))
+   (pin 999 N7
+    (property 
+     (pinname VSS_34)
+     (pintype 4)))
+   (pin 999 N10
+    (property 
+     (pinname VSS_35)
+     (pintype 4)))
+   (pin 999 N11
+    (property 
+     (pinname VSS_36)
+     (pintype 4)))
+   (pin 999 V1
+    (property 
+     (pinname VSS_37)
+     (pintype 4)))
+   (pin 999 V18
+    (property 
+     (pinname VSS_38)
+     (pintype 4)))
+   (pin 999 E8
+    (property 
+     (pinname VSSA_ADC)
+     (pintype 4)))
+   (pin 999 M14
+    (property 
+     (pinname VSSA_USB_1)
+     (pintype 4)))
+   (pin 999 N14
+    (property 
+     (pinname VSSA_USB_2)
+     (pintype 4)))
+   (pin 999 V11
+    (property 
+     (pinname VSS_OSC)
+     (pintype 4)))
+   (pin 999 A5
+    (property 
+     (pinname VSS_RTC)
+     (pintype 4)))
+   (pin 999 U8
+    (property 
+     (pinname GPIO1_4)
+     (pintype 4)))
+   (pin 999 V8
+    (property 
+     (pinname GPIO1_5)
+     (pintype 4)))
+   (pin 999 R9
+    (property 
+     (pinname GPIO1_6)
+     (pintype 4)))
+   (pin 999 T9
+    (property 
+     (pinname GPIO1_7)
+     (pintype 4)))
+   (pin 999 R13
+    (property 
+     (pinname GPIO1_16)
+     (pintype 4)))
+   (pin 999 V14
+    (property 
+     (pinname GPIO1_17)
+     (pintype 4)))
+   (pin 999 U14
+    (property 
+     (pinname GPIO1_18)
+     (pintype 4)))
+   (pin 999 T14
+    (property 
+     (pinname GPIO1_19)
+     (pintype 4)))
+   (pin 999 R14
+    (property 
+     (pinname GPIO1_20)
+     (pintype 4)))
+   (pin 999 V15
+    (property 
+     (pinname GPIO1_21)
+     (pintype 4)))
+   (pin 999 U15
+    (property 
+     (pinname GPIO1_22)
+     (pintype 4)))
+   (pin 999 T15
+    (property 
+     (pinname GPIO1_23)
+     (pintype 4)))
+   (pin 999 V16
+    (property 
+     (pinname GPIO1_24)
+     (pintype 4)))
+   (pin 999 U16
+    (property 
+     (pinname GPIO1_25)
+     (pintype 4)))
+   (pin 999 T16
+    (property 
+     (pinname GPIO1_26)
+     (pintype 4)))
+   (pin 999 V17
+    (property 
+     (pinname GPIO1_27)
+     (pintype 4)))
+   (pin 999 U18
+    (property 
+     (pinname GPIO1_28)
+     (pintype 4)))
+   (pin 999 V6
+    (property 
+     (pinname GPIO1_29)
+     (pintype 4)))
+   (pin 999 T7
+    (property 
+     (pinname GPIO2_3)
+     (pintype 4)))
+   (pin 999 U6
+    (property 
+     (pinname GPIO2_4)
+     (pintype 4)))
+   (pin 999 T6
+    (property 
+     (pinname GPIO2_5)
+     (pintype 4)))
+   (pin 999 A15
+    (property 
+     (pinname CLKOUT1)
+     (pintype 2)))
+   (pin 999 D14
+    (property 
+     (pinname CLKOUT2)
+     (pintype 2)))
+   (pin 999 D18
+    (property 
+     (pinname GPIO0_12)
+     (pintype 4)))
+   (pin 999 C12
+    (property 
+     (pinname GPIO3_17)
+     (pintype 4)))
+   (pin 999 B12
+    (property 
+     (pinname GPIO3_18)
+     (pintype 4)))
+   (pin 999 H18
+    (property 
+     (pinname GPIO0_29)
+     (pintype 4)))
+   (pin 999 V5
+    (property 
+     (pinname GPIO2_24)
+     (pintype 4)))
+   (pin 999 R5
+    (property 
+     (pinname GPIO2_23)
+     (pintype 4)))
+   (pin 999 U5
+    (property 
+     (pinname GPIO2_22)
+     (pintype 4)))
+   (pin 999 R6
+    (property 
+     (pinname GPIO2_25)
+     (pintype 4)))
+   (pin 999 D17
+    (property 
+     (pinname GPIO0_13)
+     (pintype 4)))
+   (pin 999 G16
+    (property 
+     (pinname GPIO2_29)
+     (pintype 4)))
+   (pin 999 A13
+    (property 
+     (pinname GPIO3_14)
+     (pintype 4)))
+   (pin 999 B13
+    (property 
+     (pinname GPIO3_15)
+     (pintype 4)))
+   (pin 999 D12
+    (property 
+     (pinname GPIO3_16)
+     (pintype 4)))
+   (pin 999 U7
+    (property 
+     (pinname MMC1_DAT0)
+     (pintype 1)))
+   (pin 999 V7
+    (property 
+     (pinname MMC1_DAT1)
+     (pintype 1)))
+   (pin 999 R8
+    (property 
+     (pinname MMC1_DAT2)
+     (pintype 1)))
+   (pin 999 T8
+    (property 
+     (pinname MMC1_DAT3)
+     (pintype 1)))
+   (pin 999 E17
+    (property 
+     (pinname GPIO1_9)
+     (pintype 4)))
+   (pin 999 U9
+    (property 
+     (pinname MMC1_CLK)
+     (pintype 2)))
+   (pin 999 V9
+    (property 
+     (pinname MMC1_CMD)
+     (pintype 2)))
+   (pin 999 C10
+    (property 
+     (pinname CAP_VBB_MPU)
+     (pintype 4)))
+   (pin 999 D6
+    (property 
+     (pinname CAP_VDD_RTC)
+     (pintype 4)))
+   (pin 999 D9
+    (property 
+     (pinname CAP_VDD_SRAM_CORE)
+     (pintype 4)))
+   (pin 999 D11
+    (property 
+     (pinname CAP_VDD_SRAM_MPU)
+     (pintype 4)))
+   (pin 999 N16
+    (property 
+     (pinname VDDA1P8V_USB0)
+     (pintype 4)))
+   (pin 999 R16
+    (property 
+     (pinname VDDA1P8V_USB1)
+     (pintype 4)))
+   (pin 999 N15
+    (property 
+     (pinname VDDA3P3V_USB0)
+     (pintype 4)))
+   (pin 999 R15
+    (property 
+     (pinname VDDA3P3V_USB1)
+     (pintype 4)))
+   (pin 999 D8
+    (property 
+     (pinname VDDA_ADC)
+     (pintype 4)))
+   (pin 999 E6
+    (property 
+     (pinname VDDS_0)
+     (pintype 4)))
+   (pin 999 E14
+    (property 
+     (pinname VDDS_1)
+     (pintype 4)))
+   (pin 999 F9
+    (property 
+     (pinname VDDS_2)
+     (pintype 4)))
+   (pin 999 K13
+    (property 
+     (pinname VDDS_3)
+     (pintype 4)))
+   (pin 999 N6
+    (property 
+     (pinname VDDS_4)
+     (pintype 4)))
+   (pin 999 P9
+    (property 
+     (pinname VDDS_5)
+     (pintype 4)))
+   (pin 999 P14
+    (property 
+     (pinname VDDS_6)
+     (pintype 4)))
+   (pin 999 P7
+    (property 
+     (pinname VDDSHV1_1)
+     (pintype 4)))
+   (pin 999 P8
+    (property 
+     (pinname VDDSHV1_2)
+     (pintype 4)))
+   (pin 999 P10
+    (property 
+     (pinname VDDSHV2_1)
+     (pintype 4)))
+   (pin 999 P11
+    (property 
+     (pinname VDDSHV2_2)
+     (pintype 4)))
+   (pin 999 P12
+    (property 
+     (pinname VDDSHV3_1)
+     (pintype 4)))
+   (pin 999 P13
+    (property 
+     (pinname VDDSHV3_2)
+     (pintype 4)))
+   (pin 999 H14
+    (property 
+     (pinname VDDSHV4_1)
+     (pintype 4)))
+   (pin 999 J14
+    (property 
+     (pinname VDDSHV4_2)
+     (pintype 4)))
+   (pin 999 K14
+    (property 
+     (pinname VDDSHV5_1)
+     (pintype 4)))
+   (pin 999 L14
+    (property 
+     (pinname VDDSHV5_2)
+     (pintype 4)))
+   (pin 999 E10
+    (property 
+     (pinname VDDSHV6_1)
+     (pintype 4)))
+   (pin 999 E11
+    (property 
+     (pinname VDDSHV6_2)
+     (pintype 4)))
+   (pin 999 E12
+    (property 
+     (pinname VDDSHV6_3)
+     (pintype 4)))
+   (pin 999 E13
+    (property 
+     (pinname VDDSHV6_4)
+     (pintype 4)))
+   (pin 999 F14
+    (property 
+     (pinname VDDSHV6_5)
+     (pintype 4)))
+   (pin 999 G14
+    (property 
+     (pinname VDDSHV6_6)
+     (pintype 4)))
+   (pin 999 N5
+    (property 
+     (pinname VDDSHV6_7)
+     (pintype 4)))
+   (pin 999 P5
+    (property 
+     (pinname VDDSHV6_8)
+     (pintype 4)))
+   (pin 999 P6
+    (property 
+     (pinname VDDSHV6_9)
+     (pintype 4)))
+   (pin 999 E5
+    (property 
+     (pinname VDDS_DDR1)
+     (pintype 4)))
+   (pin 999 F5
+    (property 
+     (pinname VDDS_DDR2)
+     (pintype 4)))
+   (pin 999 G5
+    (property 
+     (pinname VDDS_DDR3)
+     (pintype 4)))
+   (pin 999 H5
+    (property 
+     (pinname VDDS_DDR4)
+     (pintype 4)))
+   (pin 999 J5
+    (property 
+     (pinname VDDS_DDR5)
+     (pintype 4)))
+   (pin 999 K5
+    (property 
+     (pinname VDDS_DDR6)
+     (pintype 4)))
+   (pin 999 L5
+    (property 
+     (pinname VDDS_DDR7)
+     (pintype 4)))
+   (pin 999 R11
+    (property 
+     (pinname VDDS_OSC)
+     (pintype 4)))
+   (pin 999 R10
+    (property 
+     (pinname VDDS_PLL_CORE_LCD)
+     (pintype 4)))
+   (pin 999 E7
+    (property 
+     (pinname VDDS_PLL_DDR)
+     (pintype 4)))
+   (pin 999 H15
+    (property 
+     (pinname VDDS_PLL_MPU)
+     (pintype 4)))
+   (pin 999 D7
+    (property 
+     (pinname VDDS_RTC)
+     (pintype 4)))
+   (pin 999 E9
+    (property 
+     (pinname VDDS_SRAM_CORE_BG)
+     (pintype 4)))
+   (pin 999 D10
+    (property 
+     (pinname VDDS_SRAM_MPU_BB)
+     (pintype 4)))
+   (pin 999 F6
+    (property 
+     (pinname VDD_CORE1)
+     (pintype 4)))
+   (pin 999 F7
+    (property 
+     (pinname VDD_CORE2)
+     (pintype 4)))
+   (pin 999 G6
+    (property 
+     (pinname VDD_CORE3)
+     (pintype 4)))
+   (pin 999 G7
+    (property 
+     (pinname VDD_CORE4)
+     (pintype 4)))
+   (pin 999 G10
+    (property 
+     (pinname VDD_CORE5)
+     (pintype 4)))
+   (pin 999 H11
+    (property 
+     (pinname VDD_CORE6)
+     (pintype 4)))
+   (pin 999 J12
+    (property 
+     (pinname VDD_CORE7)
+     (pintype 4)))
+   (pin 999 K6
+    (property 
+     (pinname VDD_CORE8)
+     (pintype 4)))
+   (pin 999 K8
+    (property 
+     (pinname VDD_CORE9)
+     (pintype 4)))
+   (pin 999 K12
+    (property 
+     (pinname VDD_CORE10)
+     (pintype 4)))
+   (pin 999 L6
+    (property 
+     (pinname VDD_CORE11)
+     (pintype 4)))
+   (pin 999 L7
+    (property 
+     (pinname VDD_CORE12)
+     (pintype 4)))
+   (pin 999 L8
+    (property 
+     (pinname VDD_CORE13)
+     (pintype 4)))
+   (pin 999 L9
+    (property 
+     (pinname VDD_CORE14)
+     (pintype 4)))
+   (pin 999 M11
+    (property 
+     (pinname VDD_CORE15)
+     (pintype 4)))
+   (pin 999 M13
+    (property 
+     (pinname VDD_CORE16)
+     (pintype 4)))
+   (pin 999 N8
+    (property 
+     (pinname VDD_CORE17)
+     (pintype 4)))
+   (pin 999 N9
+    (property 
+     (pinname VDD_CORE18)
+     (pintype 4)))
+   (pin 999 N12
+    (property 
+     (pinname VDD_CORE19)
+     (pintype 4)))
+   (pin 999 N13
+    (property 
+     (pinname VDD_CORE20)
+     (pintype 4)))
+   (pin 999 F10
+    (property 
+     (pinname VDD_MPU1)
+     (pintype 4)))
+   (pin 999 F11
+    (property 
+     (pinname VDD_MPU2)
+     (pintype 4)))
+   (pin 999 F12
+    (property 
+     (pinname VDD_MPU3)
+     (pintype 4)))
+   (pin 999 F13
+    (property 
+     (pinname VDD_MPU4)
+     (pintype 4)))
+   (pin 999 G13
+    (property 
+     (pinname VDD_MPU5)
+     (pintype 4)))
+   (pin 999 H13
+    (property 
+     (pinname VDD_MPU6)
+     (pintype 4)))
+   (pin 999 J13
+    (property 
+     (pinname VDD_MPU7)
+     (pintype 4)))
+   (pin 999 A2
+    (property 
+     (pinname VDD_MPU_MON)
+     (pintype 4)))
+   (pin 999 M5
+    (property 
+     (pinname VPP)
+     (pintype 4)))
+   (pin 999 B9
+    (property 
+     (pinname VREFP)
+     (pintype 4)))
+   (pin 999 A9
+    (property 
+     (pinname VREFN)
+     (pintype 4))))
+  (image ABM8G-24.000
+   (property 
+    (sourcelib C:\\PROJECTS\\AS-AND-E\\HBX1A-REVA\\DRAWINGS\\HXA1.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4))))
+  (image EVQ-PF008K
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4))))
+  (image SN74LVC2G14DB
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1A)
+     (pintype 0)))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 2A)
+     (pintype 0)))
+   (pin 999 4
+    (property 
+     (pinname 2Y)
+     (pintype 2)))
+   (pin 999 5
+    (property 
+     (pinname VCC)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 1Y)
+     (pintype 2))))
+  (image LPS4018
+   (property 
+    (sourcelib C:\\PROJECTS\\KUVEE\\KV1-REVA\\DRAWINGS\\KV1LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image BLM18
+   (property 
+    (sourcelib C:\\PROJECTS\\VEEDER\\TLS450M-REVA\\DRAWINGS\\TLSM.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image CON2
+   (property 
+    (sourcelib C:\\ORCADWIN\\EXPRESS\\LIBRARY\\DEVICE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image TLMG1100
+   (property 
+    (sourcelib C:\\PROJECTS\\AS-AND-E\\HBX1A-REVA\\DRAWINGS\\HXA1.OLB))
+   (pin 999 2
+    (property 
+     (pinname ANODE)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname CATHODE)
+     (pintype 4))))
+  (image LP2998MR
+   (property 
+    (sourcelib C:\\PROJECTS\\INVENSYS-FCP300\\FCP300A-REVA\\DRAWINGS\\FCP300A.OLB))
+   (pin 999 8
+    (property 
+     (pinname VTT)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname PVIN)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname AVIN)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname VDDQ)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname GND-PAD)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname SD#)
+     (pintype 0)))
+   (pin 999 3
+    (property 
+     (pinname VSENSE)
+     (pintype 0)))
+   (pin 999 4
+    (property 
+     (pinname VREF)
+     (pintype 2))))
+  (image MMBT3904LT1
+   (property 
+    (sourcelib C:\\PROJECTS\\VEEDER\\TLS450M-REVA\\DRAWINGS\\TLSM.OLB))
+   (pin 999 1
+    (property 
+     (pinname BASE)
+     (pintype 0)))
+   (pin 999 2
+    (property 
+     (pinname EMITTER)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname COLLECTOR)
+     (pintype 4))))
+  (image TPS62410DRCT
+   (property 
+    (sourcelib C:\\PROJECTS\\KUVEE\\KV1-REVA\\DRAWINGS\\KV1LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname ADJ2)
+     (pintype 0)))
+   (pin 999 2
+    (property 
+     (pinname MODE/DATA)
+     (pintype 0)))
+   (pin 999 3
+    (property 
+     (pinname VIN)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname DEF1)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname SW1)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname EN1)
+     (pintype 0)))
+   (pin 999 8
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname EN2)
+     (pintype 0)))
+   (pin 999 10
+    (property 
+     (pinname SW2)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname GND-PAD)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname FB1)
+     (pintype 0))))
+  (image TPS22967DSGT
+   (property 
+    (sourcelib C:\\PROJECTS\\KUVEE\\KV1-REVA\\DRAWINGS\\KV1LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname VIN1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname VIN2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname ON)
+     (pintype 0)))
+   (pin 999 4
+    (property 
+     (pinname VBIAS)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname CT)
+     (pintype 2)))
+   (pin 999 9
+    (property 
+     (pinname GND-PAD)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname VOUT1)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname VOUT2)
+     (pintype 4))))
+  (image NCP114ASN180T1G
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname VIN)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname VOUT)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname EN)
+     (pintype 0)))
+   (pin 999 4
+    (property 
+     (pinname NC)
+     (pintype 4))))
+  (image INDUCTOR
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image CON3
+   (property 
+    (sourcelib C:\\ORCADWIN\\EXPRESS\\LIBRARY\\DEVICE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4))))
+  (image AP6502SP-13
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 2
+    (property 
+     (pinname VIN)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname EN)
+     (pintype 0)))
+   (pin 999 8
+    (property 
+     (pinname SS)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname COMP)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname GND-PAD)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname FB)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname SW)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname BST)
+     (pintype 4))))
+  (image MUN5235DW1
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 4
+    (property 
+     (pinname E_A)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname C_A)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname B_A)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname E_B)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname C_B)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname B_B)
+     (pintype 4))))
+  (image LAN8710A-EZC
+   (property 
+    (sourcelib C:\\PROJECTS\\VEEDER\\TLS450M-REVA\\DRAWINGS\\TLSM.OLB))
+   (pin 999 22
+    (property 
+     (pinname TXD0)
+     (pintype 0)))
+   (pin 999 23
+    (property 
+     (pinname TXD1)
+     (pintype 0)))
+   (pin 999 24
+    (property 
+     (pinname TXD2)
+     (pintype 0)))
+   (pin 999 25
+    (property 
+     (pinname TXD3)
+     (pintype 0)))
+   (pin 999 20
+    (property 
+     (pinname TXCLK)
+     (pintype 2)))
+   (pin 999 21
+    (property 
+     (pinname TXEN)
+     (pintype 0)))
+   (pin 999 11
+    (property 
+     (pinname RXD0/MODE0)
+     (pintype 2)))
+   (pin 999 10
+    (property 
+     (pinname RXD1/MODE1)
+     (pintype 2)))
+   (pin 999 9
+    (property 
+     (pinname RXD2/RMIISEL)
+     (pintype 2)))
+   (pin 999 8
+    (property 
+     (pinname RXD3/PHYAD2)
+     (pintype 2)))
+   (pin 999 7
+    (property 
+     (pinname RXCLK/PHYAD1)
+     (pintype 2)))
+   (pin 999 26
+    (property 
+     (pinname RX_DV)
+     (pintype 2)))
+   (pin 999 13
+    (property 
+     (pinname RX_ER/PHYAD0)
+     (pintype 2)))
+   (pin 999 14
+    (property 
+     (pinname CRS)
+     (pintype 2)))
+   (pin 999 15
+    (property 
+     (pinname COL/CRS_DV_MODE2)
+     (pintype 2)))
+   (pin 999 17
+    (property 
+     (pinname MDC)
+     (pintype 0)))
+   (pin 999 16
+    (property 
+     (pinname MDIO)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname INT#/TXER/TXD4)
+     (pintype 0)))
+   (pin 999 19
+    (property 
+     (pinname RST#)
+     (pintype 0)))
+   (pin 999 5
+    (property 
+     (pinname XTAL_IN/REF_CLK)
+     (pintype 0)))
+   (pin 999 4
+    (property 
+     (pinname XTAL)
+     (pintype 2)))
+   (pin 999 29
+    (property 
+     (pinname TXP)
+     (pintype 2)))
+   (pin 999 28
+    (property 
+     (pinname TXN)
+     (pintype 2)))
+   (pin 999 31
+    (property 
+     (pinname RXP)
+     (pintype 0)))
+   (pin 999 30
+    (property 
+     (pinname RXN)
+     (pintype 0)))
+   (pin 999 32
+    (property 
+     (pinname RBIAS)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname LED1/REGOFF)
+     (pintype 2)))
+   (pin 999 2
+    (property 
+     (pinname LED2/INTSEL)
+     (pintype 2)))
+   (pin 999 12
+    (property 
+     (pinname VDDIO)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname VDDCR)
+     (pintype 4)))
+   (pin 999 27
+    (property 
+     (pinname VDD1A)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname VDD2A)
+     (pintype 4)))
+   (pin 999 33
+    (property 
+     (pinname GND-PAD)
+     (pintype 4))))
+  (image MT25QL128
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 7
+    (property 
+     (pinname CS#)
+     (pintype 0)))
+   (pin 999 16
+    (property 
+     (pinname CLK)
+     (pintype 0)))
+   (pin 999 15
+    (property 
+     (pinname DIN/D0)
+     (pintype 0)))
+   (pin 999 8
+    (property 
+     (pinname DOUT/D1)
+     (pintype 2)))
+   (pin 999 9
+    (property 
+     (pinname WP#/DQ2)
+     (pintype 0)))
+   (pin 999 1
+    (property 
+     (pinname HOLD#/DQ3)
+     (pintype 0)))
+   (pin 999 2
+    (property 
+     (pinname VCC)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname RESET#)
+     (pintype 0)))
+   (pin 999 4
+    (property 
+     (pinname DNU1)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname DNU2)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname DNU3)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname DNU4)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname DNU5)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname DNU6)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname DNU7)
+     (pintype 4))))
+  (image CONN_LAN
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 R1
+    (property 
+     (pinname TX+)
+     (pintype 4)))
+   (pin 999 R2
+    (property 
+     (pinname TX-)
+     (pintype 4)))
+   (pin 999 R7
+    (property 
+     (pinname RX+)
+     (pintype 4)))
+   (pin 999 L1
+    (property 
+     (pinname A1)
+     (pintype 4)))
+   (pin 999 L2
+    (property 
+     (pinname C1)
+     (pintype 4)))
+   (pin 999 L3
+    (property 
+     (pinname A2)
+     (pintype 4)))
+   (pin 999 L4
+    (property 
+     (pinname C2)
+     (pintype 4)))
+   (pin 999 G1
+    (property 
+     (pinname G1)
+     (pintype 4)))
+   (pin 999 G2
+    (property 
+     (pinname G2)
+     (pintype 4)))
+   (pin 999 R8
+    (property 
+     (pinname RX-)
+     (pintype 4)))
+   (pin 999 R3
+    (property 
+     (pinname CT)
+     (pintype 4)))
+   (pin 999 R4
+    (property 
+     (pinname NC1)
+     (pintype 4)))
+   (pin 999 R5
+    (property 
+     (pinname NC2)
+     (pintype 4)))
+   (pin 999 R6
+    (property 
+     (pinname NC3)
+     (pintype 4))))
+  (image IDT74CBTLV3257QG
+   (property 
+    (sourcelib C:\\PROJECTS\\INVENSYS-FCP300\\FCP300A-REVA\\DRAWINGS\\FCP300A.OLB))
+   (pin 999 4
+    (property 
+     (pinname 1A)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 2A)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 3A)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 4A)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 1B1)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 1B2)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 2B1)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 2B2)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 3B1)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 3B2)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 4B1)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 4B2)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname S)
+     (pintype 0)))
+   (pin 999 15
+    (property 
+     (pinname OE#)
+     (pintype 0)))
+   (pin 999 16
+    (property 
+     (pinname VCC)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname GND)
+     (pintype 4))))
+  (image FUSE
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image HOLE
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image CON4
+   (property 
+    (sourcelib C:\\ORCADWIN\\EXPRESS\\LIBRARY\\DEVICE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4))))
+  (image CSEQ
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 6
+    (property 
+     (pinname VCCIO1_3V3_1)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname TDI)
+     (pintype 0)))
+   (pin 999 65
+    (property 
+     (pinname GND-PAD)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname TMS)
+     (pintype 0)))
+   (pin 999 57
+    (property 
+     (pinname VCCIO2_1V8_2)
+     (pintype 4)))
+   (pin 999 23
+    (property 
+     (pinname VCCIO1_3V3_2)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname VCCINT1)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname TCK)
+     (pintype 0)))
+   (pin 999 17
+    (property 
+     (pinname TDO)
+     (pintype 2)))
+   (pin 999 9
+    (property 
+     (pinname CLK32)
+     (pintype 0)))
+   (pin 999 41
+    (property 
+     (pinname VCCINT2)
+     (pintype 4)))
+   (pin 999 30
+    (property 
+     (pinname SYS_RESETN)
+     (pintype 2)))
+   (pin 999 28
+    (property 
+     (pinname SLED0#)
+     (pintype 2)))
+   (pin 999 10
+    (property 
+     (pinname SLED1#)
+     (pintype 2)))
+   (pin 999 32
+    (property 
+     (pinname SLED2#)
+     (pintype 2)))
+   (pin 999 29
+    (property 
+     (pinname SLED3#)
+     (pintype 2)))
+   (pin 999 39
+    (property 
+     (pinname VCCIO2_1V8_1)
+     (pintype 4)))
+   (pin 999 22
+    (property 
+     (pinname EN_VCC1V5)
+     (pintype 2)))
+   (pin 999 27
+    (property 
+     (pinname EN_VCC0V75)
+     (pintype 2)))
+   (pin 999 64
+    (property 
+     (pinname EN_VCC1V8)
+     (pintype 2)))
+   (pin 999 4
+    (property 
+     (pinname DB_RESET#)
+     (pintype 0)))
+   (pin 999 31
+    (property 
+     (pinname EN_VCC1V1)
+     (pintype 2)))
+   (pin 999 18
+    (property 
+     (pinname CPU_NMI)
+     (pintype 2)))
+   (pin 999 40
+    (property 
+     (pinname RTC_RESETN)
+     (pintype 2)))
+   (pin 999 1
+    (property 
+     (pinname EN_VCC3V3)
+     (pintype 2)))
+   (pin 999 2
+    (property 
+     (pinname CPU_RESET_OUT#)
+     (pintype 0)))
+   (pin 999 36
+    (property 
+     (pinname CLK32_OUT)
+     (pintype 2)))
+   (pin 999 7
+    (property 
+     (pinname PWRGOOD)
+     (pintype 0)))
+   (pin 999 21
+    (property 
+     (pinname FAN_F_TACH)
+     (pintype 2)))
+   (pin 999 3
+    (property 
+     (pinname FAN_R_TACH)
+     (pintype 2)))
+   (pin 999 19
+    (property 
+     (pinname VMODE1)
+     (pintype 2)))
+   (pin 999 5
+    (property 
+     (pinname RSVD3V3_1)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname FAN4_TACH)
+     (pintype 0)))
+   (pin 999 12
+    (property 
+     (pinname RSVD3V3_2)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname RSVD3V3_3)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname FAN2_TACH)
+     (pintype 0)))
+   (pin 999 24
+    (property 
+     (pinname FAN3_TACH)
+     (pintype 0)))
+   (pin 999 25
+    (property 
+     (pinname FAN1_TACH)
+     (pintype 0)))
+   (pin 999 26
+    (property 
+     (pinname FAN_TACH_SEL)
+     (pintype 0)))
+   (pin 999 34
+    (property 
+     (pinname RSVD1V8_1)
+     (pintype 4)))
+   (pin 999 35
+    (property 
+     (pinname RSVD1V8_2)
+     (pintype 4)))
+   (pin 999 37
+    (property 
+     (pinname RSVD1V8_3)
+     (pintype 4)))
+   (pin 999 38
+    (property 
+     (pinname RSVD1V8_4)
+     (pintype 4)))
+   (pin 999 33
+    (property 
+     (pinname RSVD3V3_4)
+     (pintype 4)))
+   (pin 999 42
+    (property 
+     (pinname RSVD1V8_6)
+     (pintype 4)))
+   (pin 999 43
+    (property 
+     (pinname RSVD1V8_7)
+     (pintype 4)))
+   (pin 999 44
+    (property 
+     (pinname RSVD1V8_8)
+     (pintype 4)))
+   (pin 999 45
+    (property 
+     (pinname RSVD1V8_9)
+     (pintype 4)))
+   (pin 999 46
+    (property 
+     (pinname RSVD1V8_10)
+     (pintype 4)))
+   (pin 999 47
+    (property 
+     (pinname RSVD1V8_11)
+     (pintype 4)))
+   (pin 999 48
+    (property 
+     (pinname RSVD1V8_12)
+     (pintype 4)))
+   (pin 999 49
+    (property 
+     (pinname RSVD1V8_13)
+     (pintype 4)))
+   (pin 999 50
+    (property 
+     (pinname RSVD1V8_14)
+     (pintype 4)))
+   (pin 999 51
+    (property 
+     (pinname RSVD1V8_15)
+     (pintype 4)))
+   (pin 999 52
+    (property 
+     (pinname RSVD1V8_16)
+     (pintype 4)))
+   (pin 999 53
+    (property 
+     (pinname RSVD1V8_17)
+     (pintype 4)))
+   (pin 999 54
+    (property 
+     (pinname RSVD1V8_18)
+     (pintype 4)))
+   (pin 999 55
+    (property 
+     (pinname RSVD1V8_19)
+     (pintype 4)))
+   (pin 999 56
+    (property 
+     (pinname RSVD1V8_20)
+     (pintype 4)))
+   (pin 999 58
+    (property 
+     (pinname RSVD1V8_21)
+     (pintype 4)))
+   (pin 999 59
+    (property 
+     (pinname RSVD1V8_22)
+     (pintype 4)))
+   (pin 999 60
+    (property 
+     (pinname RSVD1V8_23)
+     (pintype 4)))
+   (pin 999 61
+    (property 
+     (pinname RSVD1V8_24)
+     (pintype 4)))
+   (pin 999 62
+    (property 
+     (pinname RSVD1V8_25)
+     (pintype 4)))
+   (pin 999 63
+    (property 
+     (pinname RSVD1V8_26)
+     (pintype 4))))
+  (image ASDK-32.768KHZ
+   (property 
+    (sourcelib C:\\PROJECTS\\INVENSYS-FCP300\\FCP300A-REVA\\DRAWINGS\\FCP300A.OLB))
+   (pin 999 1
+    (property 
+     (pinname OE)
+     (pintype 0)))
+   (pin 999 2
+    (property 
+     (pinname GND)
+     (pintype 7)))
+   (pin 999 3
+    (property 
+     (pinname OUT)
+     (pintype 2)))
+   (pin 999 4
+    (property 
+     (pinname VCC)
+     (pintype 4))))
+  (image CAT809TTBI-GT3
+   (property 
+    (sourcelib C:\\PROJECTS\\OBELISK\\CC1B_REVA\\DRAWINGS\\CC1B_LIB.OLB))
+   (pin 999 1
+    (property 
+     (pinname GND)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname VCC)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname RESET#)
+     (pintype 2)))))
+ (network
+  (net N15934755
+   (pins
+     R305-1 U201-A11))
+  (net N9863531
+   (pins
+     R324-1 U201-J18))
+  (net N15821461
+   (pins
+     U201-A10 R307-2))
+  (net N15821476
+   (pins
+     U201-B4 R312-2))
+  (net N15821458
+   (pins
+     U201-B15 R306-2))
+  (net N15934752
+   (pins
+     R304-1 U201-A12))
+  (net N9862574
+   (pins
+     C301-1 R303-2 R301-1 Y301-3))
+  (net N9861516
+   (pins
+     U201-J3 R201-1))
+  (net N9861237
+   (pins
+     U201-D3 T201-1))
+  (net SYSBOOT7
+   (pins
+     U201-T4 R414-2))
+  (net SYSBOOT6
+   (pins
+     U201-T3 R415-2))
+  (net SYSBOOT11
+   (pins
+     U201-U4 R410-2))
+  (net SYSBOOT10
+   (pins
+     U201-U3 R411-2))
+  (net SYSBOOT14
+   (pins
+     U201-V4 R409-2))
+  (net SYSBOOT12
+   (pins
+     U201-V2 R407-2))
+  (net SYSBOOT13
+   (pins
+     U201-V3 R406-2))
+  (net N9863525
+   (pins
+     R322-1 U201-K16))
+  (net N9863519
+   (pins
+     R320-1 U201-K18))
+  (net N16033622
+   (pins
+     U201-C15 T301-1))
+  (net N9863528
+   (pins
+     R323-1 U201-K15))
+  (net N15821470
+   (pins
+     U201-C6 R310-2))
+  (net N9863522
+   (pins
+     R321-1 U201-K17))
+  (net N9862584
+   (pins
+     R301-2 U201-U11))
+  (net N15821467
+   (pins
+     U201-B5 R309-2))
+  (net N9862604
+   (pins
+     U201-V10 Y301-1 C302-1 R303-1))
+  (net SYSBOOT3
+   (pins
+     U201-R4 R425-2 R418-2))
+  (net SYSBOOT2
+   (pins
+     U201-R3 R424-2 R419-2))
+  (net SYSBOOT1
+   (pins
+     U201-R2 R423-2 R420-2))
+  (net SYSBOOT0
+   (pins
+     U201-R1 R422-2 R421-2))
+  (net N16055543
+   (pins
+     T504-1 U201-T14))
+  (net N16055552
+   (pins
+     T507-1 U201-U15))
+  (net N16055528
+   (pins
+     T508-1 U201-D17))
+  (net N15821464
+   (pins
+     U201-B18 R308-2))
+  (net N15846972
+   (pins
+     U201-C5 R311-2))
+  (net SYSBOOT8
+   (pins
+     R413-2 R326-2))
+  (net SYSBOOT9
+   (pins
+     R412-2 R325-2))
+  (net N15965905
+   (pins
+     U201-P15 R405-1))
+  (net N15965883
+   (pins
+     R404-1 U201-T18))
+  (net N15965872
+   (pins
+     R402-1 U201-P17))
+  (net N15928545
+   (pins
+     R401-2 U201-B8 U201-B6 U201-C7 U201-B7 U201-A7 U201-C8 U201-C9 U201-A8))
+  (net SYSBOOT5
+   (pins
+     U201-T2 R416-2))
+  (net VCC_MPU_PLL
+   (pins
+     L602-1 U201-R11 U201-R10 U201-E7 U201-H15 C653-1 C654-1 C655-1 C656-1
+     C665-1))
+  (net N15919472
+   (pins
+     T602-1 U201-M5))
+  (net VCC_CAP1
+   (pins
+     U201-C10 C669-1))
+  (net N9876953
+   (pins
+     U201-A2 T601-1))
+  (net VCC_CAP4
+   (pins
+     C666-1 U201-D11))
+  (net N16055549
+   (pins
+     T506-1 U201-V15))
+  (net N15967338
+   (pins
+     J501-2 U201-D14))
+  (net N16055540
+   (pins
+     T503-1 U201-U14))
+  (net N16055534
+   (pins
+     T501-1 U201-R13))
+  (net N15967335
+   (pins
+     J501-1 U201-A15))
+  (net N16055531
+   (pins
+     T509-1 U201-H18))
+  (net N16055546
+   (pins
+     T505-1 U201-R14))
+  (net N15965898
+   (pins
+     R403-1 U201-P16))
+  (net SYSBOOT15
+   (pins
+     U201-T5 R408-2))
+  (net SYSBOOT4
+   (pins
+     U201-T1 R417-2 R426-2))
+  (net DDR_A9
+   (pins
+     U701-R3 R713-1 U201-C1))
+  (net DDR_A11
+   (pins
+     U701-R7 R715-1 U201-F2))
+  (net DDR_A0
+   (pins
+     U701-N3 R704-1 U201-F3))
+  (net DDR_A3
+   (pins
+     U701-N2 R707-1 U201-C3))
+  (net DDR_DQS1N
+   (pins
+     U701-B7 U201-L2))
+  (net DDR_A8
+   (pins
+     U701-T8 R712-1 U201-D4))
+  (net DDR_D13
+   (pins
+     U701-A2 U201-L3))
+  (net DDR_RESET#
+   (pins
+     U701-T2 R702-1 U201-G2))
+  (net DDR_DQS0P
+   (pins
+     U701-F3 U201-P1))
+  (net DDR_D10
+   (pins
+     U701-C8 U201-K2))
+  (net DDR_D4
+   (pins
+     U701-H3 U201-N3))
+  (net DDR_D7
+   (pins
+     U701-H7 U201-P4))
+  (net N16055537
+   (pins
+     T502-1 U201-V14))
+  (net VCC_CPU_ADC
+   (pins
+     U201-D8 C619-1 U201-B9 C620-1 L601-2))
+  (net VCC_CAP3
+   (pins
+     U201-D9 C667-1))
+  (net VCC_CAP2
+   (pins
+     C668-1 U201-D6))
+  (net DDR_WE#
+   (pins
+     U701-L3 R725-1 U201-B2))
+  (net DDR_A2
+   (pins
+     U701-P3 R706-1 U201-E4))
+  (net DDR_D1
+   (pins
+     U701-F7 U201-M4))
+  (net DDR_BA0
+   (pins
+     U701-M2 R719-1 U201-C4))
+  (net DDR_A10
+   (pins
+     U701-L7 R714-1 U201-F4))
+  (net DDR_A13
+   (pins
+     U701-T3 R717-1 U201-H3))
+  (net N9867697
+   (pins
+     U701-L8 R703-1))
+  (net DDR_A4
+   (pins
+     U701-P8 R708-1 U201-C2))
+  (net DDR_A7
+   (pins
+     U701-R2 R711-1 U201-E2))
+  (net DDR_D14
+   (pins
+     U701-B8 U201-L4))
+  (net DDR_DQS0N
+   (pins
+     U701-G3 U201-P2))
+  (net CLK_DDR_CLKP
+   (pins
+     U701-J7 R701-1 U201-D2))
+  (net DDR_A1
+   (pins
+     U701-P7 R705-1 U201-H1))
+  (net DDR_D8
+   (pins
+     U701-D7 U201-J1))
+  (net DDR_A6
+   (pins
+     U701-R8 R710-1 U201-D5))
+  (net DDR_CKE
+   (pins
+     U701-K9 R727-1 U201-G3))
+  (net DDR_DQM0
+   (pins
+     U701-E7 U201-M2))
+  (net DDR_A5
+   (pins
+     U701-P2 R709-1 U201-B1))
+  (net DDR_D11
+   (pins
+     U701-C2 U201-K3))
+  (net DDR_D2
+   (pins
+     U701-F2 U201-N1))
+  (net DDR_BA1
+   (pins
+     U701-N8 R720-1 U201-E1))
+  (net DDR_RAS#
+   (pins
+     U701-J3 R723-1 U201-G4))
+  (net DDR_D5
+   (pins
+     U701-H8 U201-N4))
+  (net DDR_A14
+   (pins
+     U701-T7 R718-1 U201-H4))
+  (net DDR_A12
+   (pins
+     U701-N7 R716-1 U201-E3))
+  (net CLK_DDR_CLKN
+   (pins
+     U701-K7 R701-2 U201-D1))
+  (net DDR_D15
+   (pins
+     U701-A3 U201-M1))
+  (net DDR_DQM1
+   (pins
+     U701-D3 U201-J2))
+  (net DDR_DQS1P
+   (pins
+     U701-C7 U201-L1))
+  (net DDR_D12
+   (pins
+     U701-A7 U201-K4))
+  (net DDR_CS0#
+   (pins
+     U701-L2 R722-1 U201-H2))
+  (net DDR_D9
+   (pins
+     U701-C3 U201-K1))
+  (net DDR_CAS#
+   (pins
+     U701-K3 R724-1 U201-F1))
+  (net DDR_ODT
+   (pins
+     U701-K1 R728-1 U201-G1))
+  (net DDR_D6
+   (pins
+     U701-G2 U201-P3))
+  (net DDR_BA2
+   (pins
+     U701-M3 R721-1 U201-B3))
+  (net DDR_D3
+   (pins
+     U701-F8 U201-N2))
+  (net DDR_D0
+   (pins
+     U701-E3 U201-M3))
+  (net N16042589
+   (pins
+     Q801-6 R803-2))
+  (net N16042598
+   (pins
+     R804-2 Q801-3))
+  (net N16042695
+   (pins
+     Q802-6 R805-2))
+  (net N16042707
+   (pins
+     R806-2 Q802-3))
+  (net FP_LED2
+   (pins
+     Q801-2 U201-V8))
+  (net FP_LED3
+   (pins
+     Q802-5 U201-R9))
+  (net FP_LED1
+   (pins
+     Q801-5 U201-U8))
+  (net FP_LED4
+   (pins
+     Q802-2 U201-T9))
+  (net N16043021
+   (pins
+     C801-1 R802-2 U801-1 D805-4 D805-1 D805-6 D805-3))
+  (net N10546244
+   (pins
+     U901-7 R928-2))
+  (net N10516518
+   (pins
+     Y901-3 R927-1 R926-1))
+  (net SW_BUTTON1
+   (pins
+     U801-6 U201-D18))
+  (net N16042595
+   (pins
+     D801-3 R804-1))
+  (net N16063129
+   (pins
+     D801-1 R803-1))
+  (net N16042703
+   (pins
+     D802-3 R806-1))
+  (net N16063189
+   (pins
+     D802-1 R805-1))
+  (net N16043015
+   (pins
+     S801-2 R801-2 R802-1))
+  (net VCC_LAN0_3V3
+    (property 
+     (nettype S))
+   (pins
+     R911-1 R910-1 R909-1 R908-1 L901-1 U901-27 U901-1 C908-1 C912-1
+     C909-1))
+  (net CPU_MII_TXD3
+   (pins
+     U901-25 R324-2))
+  (net CPU_MII_TXD0
+   (pins
+     U901-22 R321-2))
+  (net VCC_LAN0_CR
+   (pins
+     U901-6 C910-1 C906-1))
+  (net N10546932
+   (pins
+     U901-26 R929-2))
+  (net N10546901
+   (pins
+     U901-9 R919-2))
+  (net CPU_MDC
+   (pins
+     U901-17 R318-2 U201-M18))
+  (net CPU_MII_TXD1
+   (pins
+     U901-23 R322-2))
+  (net N16064472
+   (pins
+     R922-1 J901-L3))
+  (net CGND1
+    (property 
+     (nettype S))
+   (pins
+     J901-G1 J901-G2))
+  (net N16064458
+   (pins
+     R921-1 J901-L1))
+  (net CPU_MII_TXEN
+   (pins
+     U901-21 U201-J16))
+  (net N10546935
+   (pins
+     U901-13 R930-2))
+  (net N9942986
+   (pins
+     R912-1 U901-32))
+  (net N10368733
+   (pins
+     U901-20 R916-2))
+  (net N10546904
+   (pins
+     U901-8 R920-2))
+  (net N10546895
+   (pins
+     U901-11 R917-2))
+  (net N15894269
+   (pins
+     U901-18 R933-1))
+  (net CPU_MII_CRS
+   (pins
+     U901-14 U201-H17))
+  (net CPU_MDIO
+   (pins
+     U901-16 U201-M17 R319-2))
+  (net CPU_MII_TXD2
+   (pins
+     U901-24 R323-2))
+  (net CPU_MII_TXCLK
+   (pins
+     R916-1 R320-2))
+  (net CPU_MII_RXDV
+   (pins
+     R929-1 U201-J17))
+  (net N10546898
+   (pins
+     U901-10 R918-2))
+  (net MMC1_CLK
+   (pins
+     J1002-5 U201-U9))
+  (net MMC1_CMD
+   (pins
+     R1008-2 J1002-3 U201-V9))
+  (net SPI0_MISO
+   (pins
+     R1001-2 R1004-1 U201-B17))
+  (net CPU_MII_RXER
+   (pins
+     R915-2 R930-1 U201-J15))
+  (net CPU_MII_RXD3
+   (pins
+     R913-2 R920-1 U201-L17))
+  (net CLK_LAN25A
+   (pins
+     R926-2 U901-5))
+  (net N10516506
+   (pins
+     R925-1 Y901-1))
+  (net CPU_MII_RXD2
+   (pins
+     R905-2 R919-1 U201-L16))
+  (net CPU_MII_RXCLK
+   (pins
+     R914-2 R928-1 U201-L18))
+  (net CPU_MII_COL
+   (pins
+     U901-15 R902-2 U201-H16))
+  (net CPU_MII_RXD1
+   (pins
+     R903-2 R918-1 U201-L15))
+  (net CPU_MII_RXD0
+   (pins
+     R904-2 R917-1 U201-M16))
+  (net LAN0_RXP
+   (pins
+     R910-2 C904-1 U901-31 J901-R7))
+  (net LAN0_LED2
+   (pins
+     R906-2 U901-2 R924-1))
+  (net LAN0_LED1
+   (pins
+     R907-2 U901-3 R923-1))
+  (net N10399835
+   (pins
+     R923-2 Q901-1))
+  (net N10049561
+   (pins
+     U1002-9 U1001-15))
+  (net N10112903
+   (pins
+     J1001-1 R1007-2))
+  (net N9926818
+   (pins
+     U1001-1 R1003-2 R1013-1))
+  (net D_BOOT_SEL
+   (pins
+     R1005-2 J1001-8 U1002-1))
+  (net SPI0_SS0#
+   (pins
+     U1002-6 U201-A16))
+  (net N10049558
+   (pins
+     U1002-7 U1001-7))
+  (net N10399942
+   (pins
+     Q902-3 J901-L4))
+  (net N10399938
+   (pins
+     R924-2 Q902-1))
+  (net LAN0_TXP
+   (pins
+     C902-1 U901-29 R908-2 J901-R1))
+  (net LAN0_RXN
+   (pins
+     C905-1 R911-2 U901-30 J901-R8))
+  (net LAN0_TXN
+   (pins
+     R909-2 C903-1 U901-28 J901-R2))
+  (net N10399841
+   (pins
+     Q901-3 J901-L2))
+  (net MMC1_DAT3
+   (pins
+     R1012-2 J1002-2 U201-T8))
+  (net MMC1_DAT2
+   (pins
+     R1011-2 J1002-1 U201-R8))
+  (net MMC1_DAT1
+   (pins
+     R1010-2 J1002-8 U201-V7))
+  (net MMC1_DAT0
+   (pins
+     R1009-2 J1002-7 U201-U7))
+  (net N16041621
+   (pins
+     R1107-2 U1103-1))
+  (net TACH_IN4
+   (pins
+     J1104-3 R1104-2 R1112-1 R1108-1))
+  (net TACH_IN3
+   (pins
+     J1103-3 R1103-2 R1111-1 R1107-1))
+  (net PWM_OUT3
+   (pins
+     U1103-4 J1103-4 R1115-2))
+  (net TACH_IN2
+   (pins
+     J1102-3 R1102-2 R1110-1 R1106-1))
+  (net PWM_OUT1
+   (pins
+     U1101-4 J1101-4 R1113-2))
+  (net PWM_OUT4
+   (pins
+     U1104-4 J1104-4 R1116-2))
+  (net PWM_OUT2
+   (pins
+     U1102-4 J1102-4 R1114-2))
+  (net N10049555
+   (pins
+     U1002-4 U1001-16))
+  (net N10049564
+   (pins
+     U1002-12 U1001-8))
+  (net DED_CLK
+   (pins
+     U1002-2 J1001-4))
+  (net SPI0_MOSI
+   (pins
+     U1002-10 U201-B16))
+  (net DED_CS#
+   (pins
+     J1001-3 R1006-2 U1002-5))
+  (net DED_IN
+   (pins
+     U1002-14 J1001-5))
+  (net DED_OUT
+   (pins
+     U1002-11 J1001-6))
+  (net N9926815
+   (pins
+     U1001-9 R1002-2))
+  (net N16066707
+   (pins
+     R1204-1 U1204-4))
+  (net N16037825
+   (pins
+     U1205-3 U1205-6 R1217-1))
+  (net N16066755
+   (pins
+     R1205-1 U1205-4))
+  (net UART2_RXD
+   (pins
+     R1217-2 R1205-2 U201-G17))
+  (net N16041312
+   (pins
+     R1106-2 U1102-1))
+  (net TACH_IN1
+   (pins
+     J1101-3 R1101-2 R1109-1 R1105-1))
+  (net FAN_F_PWM
+   (pins
+     U1101-3 U1102-3 U201-R7))
+  (net N15793132
+   (pins
+     R1105-2 U1101-1))
+  (net N16041982
+   (pins
+     R1108-2 U1104-1))
+  (net FAN_R_PWM
+   (pins
+     U1103-3 U1104-3 U201-F17))
+  (net UART1_TXD
+   (pins
+     U1204-1 U201-D15))
+  (net UART3_TXD
+   (pins
+     U1207-1 U201-C18))
+  (net UART2_TXD
+   (pins
+     U1206-1 U201-G18))
+  (net UART4_TXD
+   (pins
+     U1210-1 U201-U17))
+  (net SPI0_SCLK
+   (pins
+     U1002-3 U201-A17))
+  (net N9926565
+   (pins
+     R1004-2 U1002-13))
+  (net N16066956
+   (pins
+     R1210-1 U1210-4))
+  (net N16038338
+   (pins
+     U1212-6 U1212-3 R1223-1))
+  (net N16067004
+   (pins
+     R1211-1 U1212-4))
+  (net UART5_RXD
+   (pins
+     R1223-2 R1211-2 U201-U2 R325-1))
+  (net N16038326
+   (pins
+     U1211-3 U1211-6 R1224-1))
+  (net UART5_TXD
+   (pins
+     U1211-1 U201-U1 R326-1))
+  (net N16037078
+   (pins
+     U1201-3 U1201-6 R1213-1))
+  (net N16066558
+   (pins
+     R1201-1 U1201-4))
+  (net UART0_RXD
+   (pins
+     R1213-2 R1201-2 U201-E15))
+  (net UART0_TXD
+   (pins
+     U1202-1 U201-E16))
+  (net N16037179
+   (pins
+     U1202-3 U1202-6 R1214-1))
+  (net N16066605
+   (pins
+     R1202-1 U1202-4))
+  (net N16037577
+   (pins
+     U1203-3 U1203-6 R1215-1))
+  (net N16066672
+   (pins
+     R1203-1 U1203-4))
+  (net UART1_RXD
+   (pins
+     R1215-2 R1203-2 U201-D16))
+  (net N16037601
+   (pins
+     U1204-3 U1204-6 R1216-1))
+  (net CONS2_TX
+   (pins
+     J1203-1 J1209-19))
+  (net CMD2_TX
+   (pins
+     J1209-20 R1218-2 R1206-2))
+  (net CONS3_RX
+   (pins
+     J1204-2 J1210-1))
+  (net CMD3_RX
+   (pins
+     J1210-2 U1208-1))
+  (net CONS3_TX
+   (pins
+     J1210-19 J1204-1))
+  (net N16037849
+   (pins
+     U1206-3 U1206-6 R1218-1))
+  (net N16066790
+   (pins
+     R1206-1 U1206-4))
+  (net N16037937
+   (pins
+     U1208-6 U1208-3 R1219-1))
+  (net N16066838
+   (pins
+     R1207-1 U1208-4))
+  (net UART3_RXD
+   (pins
+     R1219-2 R1207-2 U201-G15))
+  (net N16037925
+   (pins
+     U1207-3 U1207-6 R1220-1))
+  (net N16066873
+   (pins
+     R1208-1 U1207-4))
+  (net N16038226
+   (pins
+     U1209-3 U1209-6 R1221-1))
+  (net N16066921
+   (pins
+     R1209-1 U1209-4))
+  (net UART4_RXD
+   (pins
+     R1221-2 R1209-2 U201-T17))
+  (net N16038250
+   (pins
+     U1210-3 U1210-6 R1222-1))
+  (net I2C0_SDA
+   (pins
+     R1310-2 U1301-5 U201-C17))
+  (net CPU_JTAG_TDO
+   (pins
+     R1304-2 J1306-7 R305-2))
+  (net CPU_JTAG_EMU0
+   (pins
+     R1301-2 J1306-13 U201-C14))
+  (net CPU_JTAG_TDI
+   (pins
+     R1303-2 J1306-3 U201-B11))
+  (net CPU_JTAG_TMS
+   (pins
+     R1302-2 J1306-1 U201-C11))
+  (net N16067039
+   (pins
+     R1212-1 U1211-4))
+  (net CMD0_RX
+   (pins
+     U1201-1 J1207-2))
+  (net CONS0_RX
+   (pins
+     J1201-2 J1207-1))
+  (net CONS0_TX
+   (pins
+     J1201-1 J1207-19))
+  (net CMD0_TX
+   (pins
+     R1202-2 R1214-2 J1207-20))
+  (net CONS1_RX
+   (pins
+     J1208-1 J1202-2))
+  (net CMD1_RX
+   (pins
+     U1203-1 J1208-2))
+  (net CMD1_TX
+   (pins
+     J1208-20 R1216-2 R1204-2))
+  (net CONS1_TX
+   (pins
+     J1208-19 J1202-1))
+  (net CONS2_RX
+   (pins
+     J1203-2 J1209-1))
+  (net CMD2_RX
+   (pins
+     U1205-1 J1209-2))
+  (net N9948494
+   (pins
+     D1403-1 R1408-1))
+  (net CSEQ_TMS
+   (pins
+     U1401-14 R1402-1 J1401-5))
+  (net CPU_PWRONRST#
+   (pins
+     U1401-30 U1001-3 R1013-2 U901-19 R306-1))
+  (net SLED1
+   (pins
+     R1407-2 U1401-10))
+  (net CPU_NMI#
+   (pins
+     U1401-18 R308-1))
+  (net N16044648
+   (pins
+     U1401-13 T1403-1))
+  (net CMD3_TX
+   (pins
+     R1220-2 R1208-2 J1210-20))
+  (net CMD4_RX
+   (pins
+     U1209-1 J1212-2))
+  (net CONS4_RX
+   (pins
+     J1212-1 J1205-2))
+  (net CONS4_TX
+   (pins
+     J1212-19 J1205-1))
+  (net CMD4_TX
+   (pins
+     J1212-20 R1222-2 R1210-2))
+  (net CONS5_RX
+   (pins
+     J1206-2 J1211-1))
+  (net CMD5_RX
+   (pins
+     J1211-2 U1212-1))
+  (net CONS5_TX
+   (pins
+     J1211-19 J1206-1))
+  (net CMD5_TX
+   (pins
+     R1224-2 R1212-2 J1211-20))
+  (net I2C0_SCL
+   (pins
+     R1311-2 U1301-6 U201-C16))
+  (net CSEQ_TDI
+   (pins
+     U1401-15 R1401-1 J1401-9))
+  (net RTC_PWRONRST#
+   (pins
+     U1401-40 R309-1))
+  (net N16044645
+   (pins
+     U1401-12 T1402-1))
+  (net SLED2
+   (pins
+     R1408-2 U1401-32))
+  (net FAN2_TACH
+   (pins
+     U1401-20 U1102-6))
+  (net CPU_RESET_OUT#
+   (pins
+     U1401-2 R307-1 R313-2))
+  (net N16044642
+   (pins
+     U1401-5 T1401-1))
+  (net CLK_CSEQ32
+   (pins
+     U1402-3 U1401-9))
+  (net CPU_JTAG_TCK
+   (pins
+     R1308-1 J1306-11 R1309-1 R304-2))
+  (net CPU_JTAG_EMU1
+   (pins
+     J1306-14 R1307-2 U201-B14))
+  (net CPU_JTAG_TRST#
+   (pins
+     J1306-2 R1306-1 U201-B10))
+  (net N15979198
+   (pins
+     J1306-9 R1309-2))
+  (net EN_CLK32K
+   (pins
+     R1405-1 U1402-1))
+  (net N9948512
+   (pins
+     D1404-1 R1409-1))
+  (net N9948460
+   (pins
+     D1401-1 R1406-1))
+  (net N9948476
+   (pins
+     D1402-1 R1407-1))
+  (net VCC_DDRREF
+   (pins
+     U1601-4 C1601-1 U701-M8 U701-H1 C701-1 C702-1 U201-J4 C201-1))
+  (net FAN1_TACH
+   (pins
+     U1401-25 U1101-6))
+  (net DEBUG_RESET#
+   (pins
+     U1401-4 R1305-2 C1301-1 J1306-15))
+  (net SLED3
+   (pins
+     R1409-2 U1401-29))
+  (net FAN_R_TACH
+   (pins
+     U1401-3 U201-E18))
+  (net FAN_TACH_SEL
+   (pins
+     U1401-26 U201-E17))
+  (net N16059769
+   (pins
+     U1401-33 T1404-1))
+  (net CLK_CPU32K
+   (pins
+     U1401-36 U201-A6))
+  (net FAN_F_TACH
+   (pins
+     U1401-21 U201-F18))
+  (net FAN4_TACH
+   (pins
+     U1401-11 U1104-6))
+  (net PWRGD_VCC3V3A
+   (pins
+     U1401-7 U1403-2))
+  (net N16030315
+   (pins
+     U1501-6 C1506-1))
+  (net CSEQ_TCK
+   (pins
+     U1401-16 R1404-1 J1401-1))
+  (net FAN3_TACH
+   (pins
+     U1401-24 U1103-6))
+  (net CSEQ_TDO
+   (pins
+     U1401-17 R1403-1 J1401-3))
+  (net SLED0
+   (pins
+     R1406-2 U1401-28))
+  (net VCC_3V3
+    (property 
+     (nettype S))
+   (pins
+     U1601-6 C1603-1 U1603-8 C1620-1 U1603-7 J1306-5 R1305-1 R1304-1 R1303-1
+     R1302-1 R1307-1 R1301-1 C1302-1 U1301-8 R1310-1 R1311-1 U1202-5 C1202-1
+     C1201-1 U1201-5 U1204-5 C1204-1 U1203-5 C1203-1 U1206-5 C1206-1 U1205-5
+     C1205-1 C1208-1 U1207-5 C1207-1 U1208-5 U1210-5 C1210-1 U1209-5 C1209-1
+     C1212-1 U1211-5 C1211-1 U1212-5 U1101-5 C1101-1 R1113-1 U1102-5 C1102-1
+     R1114-1 U1103-5 C1103-1 R1115-1 U1104-5 C1104-1 R1116-1 R1002-1 R1003-1
+     R1001-1 R1006-1 C1001-1 U1002-16 R1005-1 C1002-1 R1007-1 J1002-4 C1003-1
+     C1004-1 R1012-1 R1011-1 R1010-1 R1009-1 R1008-1 U1001-2 R901-1 U901-12
+     L901-2 C901-1 C916-1 R925-2 R902-1 C911-1 R903-1 Y901-4 R904-1
+     R922-2 R921-2 J901-R3 C914-1 C913-1 R801-1 D801-2 U801-5 D801-4
+     C802-1 D802-2 D802-4 D805-5 U201-N15 C617-1 C618-1 U201-R15 U201-P6
+     U201-P7 U201-P8 U201-P10 U201-P11 U201-P12 U201-P13 U201-H14 U201-J14 U201-K14
+     U201-L14 U201-E10 U201-E11 U201-E12 U201-E13 U201-F14 U201-G14 U201-N5 U201-P5
+     C637-1 C635-1 C633-1 C634-1 C636-1 C642-1 C640-1 C638-1 C639-1
+     C641-1 C647-1 C645-1 C643-1 C644-1 C646-1 C652-1 C650-1 C648-1
+     C649-1 C651-1 C663-1 C664-1 R409-1 R422-1 R426-1 R425-1 R424-1
+     R423-1 R313-1 R318-1 R319-1))
+  (net EN_VCC1V8
+   (pins
+     U1605-3 R1611-1 U1401-64))
+  (net VCC_1V8
+    (property 
+     (nettype S))
+   (pins
+     C1624-1 U1605-5 U201-N16 U201-R16 C615-1 C616-1 L601-1 U201-E6 U201-P14
+     U201-E14 U201-F9 U201-K13 U201-N6 U201-P9 C621-1 C622-1 C623-1 C624-1
+     C625-1 C626-1 L602-2 U201-D10 U201-E9 C658-1 C657-1))
+  (net N16030235
+   (pins
+     R1501-1 R1503-2 U1501-5))
+  (net N16030349
+   (pins
+     R1502-2 U1501-7))
+  (net N16030191
+   (pins
+     R1504-1 C1506-2))
+  (net V3V3SW
+   (pins
+     L1501-1 U1501-3 C1501-2))
+  (net N16030145
+   (pins
+     C1501-1 U1501-1))
+  (net N16030184
+   (pins
+     U1501-8 C1502-1))
+  (net N16039980
+   (pins
+     D1501-1 F1501-2 C1507-1 F1502-1 F1503-1 F1504-1 F1505-1 F1506-1))
+  (net VCC_12V_IN
+    (property 
+     (nettype S))
+   (pins
+     F1501-1 J1207-10 J1207-8 J1207-12 J1207-14 J1207-7 J1207-13 J1207-9 J1207-11
+     J1208-8 J1208-10 J1208-12 J1208-14 J1208-7 J1208-13 J1208-9 J1208-11))
+  (net VCC_FAN1
+    (property 
+     (nettype S))
+   (pins
+     F1503-2 C1509-1 J1101-2 R1101-1))
+  (net VCC_FAN2
+    (property 
+     (nettype S))
+   (pins
+     F1504-2 C1510-1 J1102-2 R1102-1))
+  (net VCC_FAN3
+    (property 
+     (nettype S))
+   (pins
+     F1505-2 C1511-1 J1103-2 R1103-1))
+  (net VCC_FAN4
+    (property 
+     (nettype S))
+   (pins
+     F1506-2 C1512-1 J1104-2 R1104-1))
+  (net VCC_12V0
+    (property 
+     (nettype S))
+   (pins
+     U1501-2 C1503-1 R1502-1 C1508-1 F1502-2 C1513-1))
+  (net VCC_1V8A
+    (property 
+     (nettype S))
+   (pins
+     C1622-1 U1604-5 U1401-41 U1401-8 C1401-1 C1402-1 U1401-57 U1401-39 C1403-1
+     C1404-1 U201-D7 C659-1))
+  (net VCC_3V3A
+    (property 
+     (nettype S))
+   (pins
+     C1614-1 U1602-3 U1603-1 U1603-2 C1619-1 U1603-4 U1604-1 R1610-1 C1621-1
+     U1605-1 C1623-1 R1503-1 L1501-2 C1505-1 C1504-1 J1401-4 R1401-2 R1402-2
+     R1403-2 D1404-2 R1405-2 D1403-2 D1401-2 C1407-1 U1402-4 D1402-2 U1403-3
+     U1401-6 U1401-23 C1405-1 C1406-1))
+  (net N16029310
+   (pins
+     U1604-3 R1610-2))
+  (net EN_VCC1V5
+   (pins
+     U1602-9 R1606-1 U1401-22))
+  (net N15902774
+   (pins
+     L1601-1 U1602-10))
+  (net N15903064
+   (pins
+     L1602-2 U1602-6))
+  (net EN_VCC1V1
+   (pins
+     U1602-7 R1607-1 U1401-31))
+  (net VCC_0V75
+    (property 
+     (nettype S))
+   (pins
+     U1601-3 U1601-8 C1605-1 C1607-1 R704-2 R705-2 R706-2 R707-2 R708-2
+     R709-2 R710-2 R711-2 R712-2 R713-2 R714-2 R715-2 R716-2 R717-2
+     R718-2 R719-2 R720-2 R721-2 R722-2 R723-2 R724-2 R725-2 R727-2
+     R728-2 C729-1 C725-1 C730-1 C724-1 C726-1 C723-1 C727-1 C728-1))
+  (net N15902827
+   (pins
+     U1602-1 R1602-1 R1608-2 C1616-2))
+  (net N15903319
+   (pins
+     U1602-5 R1601-2 R1603-1))
+  (net VCC_1V1
+    (property 
+     (nettype S))
+   (pins
+     R1601-1 L1602-1 U1602-4 C1613-1 C1612-1 U201-N13 U201-F7 U201-G6 U201-G7
+     U201-G10 U201-H11 U201-J12 U201-K6 U201-K8 U201-K12 U201-L6 U201-L7 U201-L8
+     U201-L9 U201-M11 U201-M13 U201-N8 U201-N9 U201-N12 U201-F6 C607-1 C661-1
+     C606-1 C605-1 C604-1 C603-1 C602-1 C601-1 C608-1 C609-1 C660-1
+     U201-J13 C614-1 C611-1 C610-1 C612-1 C613-1 C662-1 U201-F10 U201-F11
+     U201-F12 U201-F13 U201-G13 U201-H13))
+  (net EN_VCC0V75
+   (pins
+     U1601-2 U1401-27))
+  (net VMODE1
+   (pins
+     U1602-2 U1401-19))
+  (net VCC_1V5
+    (property 
+     (nettype S))
+   (pins
+     U1601-7 U1601-5 C1602-1 C1604-1 C1606-1 L1601-2 R1608-1 C1616-1 C1611-1
+     C1610-1 U701-H9 U701-N1 U701-R1 U701-K2 U701-G7 U701-K8 U701-D9 U701-N9
+     U701-R9 U701-B2 U701-A1 U701-C1 U701-F1 U701-D2 U701-H2 U701-A8 U701-C9
+     U701-E9 C707-1 C706-1 C705-1 C704-1 C703-1 C712-1 C711-1 C710-1
+     C709-1 C708-1 C717-1 C716-1 C715-1 C714-1 C713-1 C720-1 C721-1
+     C718-1 C719-1 C722-1 R702-2 U201-E5 U201-L5 U201-F5 U201-G5 U201-H5
+     U201-J5 U201-K5 C627-1 C630-1 C629-1 C628-1 C632-1 C631-1))
+  (net EN_VCC3V3
+   (pins
+     R1609-1 U1603-3 U1401-1))
+  (net N16028852
+   (pins
+     U1603-6 C1617-1))
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     C1601-2 C1605-2 C1602-2 C1603-2 C1604-2 C1606-2 C1607-2 R1602-2 C1610-2
+     C1611-2 R1603-2 C1612-2 C1613-2 C1614-2 R1606-2 R1607-2 U1601-1 U1601-9
+     U1602-11 U1602-8 C1620-2 U1603-5 U1603-9 C1619-2 R1609-2 C1617-2 U1604-2
+     C1621-2 C1622-2 U1605-2 C1623-2 C1624-2 R1611-2 U1501-4 U1501-9 R1504-2
+     C1502-2 R1501-2 C1504-2 C1505-2 C1503-2 D1501-2 C1507-2 C1508-2 C1513-2
+     C1509-2 C1510-2 C1511-2 C1512-2 U1401-65 C1401-2 C1402-2 C1403-2 C1404-2
+     C1405-2 C1406-2 U1402-2 C1407-2 J1401-2 J1401-10 R1404-2 U1403-1 J1306-8
+     J1306-10 J1306-12 J1306-16 J1306-20 J1301-1 J1301-2 J1302-1 J1302-2 J1304-1
+     J1304-2 J1305-1 J1305-2 R1308-2 C1301-2 R1306-2 J1306-4 U1301-4 C1302-2
+     U1301-1 U1301-2 U1301-3 U1301-7 J1207-4 J1207-3 J1207-17 J1207-6 J1207-18
+     J1207-16 J1207-5 J1207-15 J1208-4 J1208-5 J1208-16 J1208-18 J1208-6 J1208-3
+     J1208-17 J1208-15 J1209-4 J1209-5 J1209-16 J1209-18 J1209-6 J1209-3 J1209-17
+     J1209-15 J1210-5 J1210-15 J1210-6 J1210-3 J1210-16 J1210-17 J1210-4 J1210-18
+     J1211-17 J1212-18 J1212-15 J1211-5 J1212-3 J1212-5 J1212-6 J1211-15 J1211-4
+     J1212-16 J1211-18 J1212-4 J1211-16 J1211-6 J1211-3 J1212-17 U1201-2 C1201-2
+     U1202-2 C1202-2 U1203-2 C1203-2 C1204-2 U1204-2 U1205-2 C1205-2 C1206-2
+     U1206-2 U1208-2 U1207-2 C1208-2 C1207-2 U1209-2 C1209-2 C1210-2 U1210-2
+     U1212-2 U1211-2 C1212-2 C1211-2 J1201-3 J1202-3 J1203-3 J1204-3 J1205-3
+     J1206-3 J1101-1 R1109-2 C1101-2 U1101-2 J1102-1 R1110-2 C1102-2 U1102-2
+     J1103-1 R1111-2 C1103-2 U1103-2 J1104-1 R1112-2 C1104-2 U1104-2 U1001-10
+     C1001-2 U1002-15 U1002-8 C1002-2 J1001-2 J1002-11 J1002-12 J1002-6 C1004-2
+     C1003-2 J1002-10 J1002-13 U901-33 C902-2 C903-2 C904-2 C905-2 R906-1
+     R907-1 R905-1 C906-2 C910-2 C911-2 C916-2 C912-2 C908-2 C909-2
+     R915-1 R914-1 R913-1 R912-2 Q901-2 Q902-2 Y901-2 C901-2 C913-2
+     C914-2 R933-2 C801-2 Q801-4 S801-1 Q802-4 Q802-1 Q801-1 C802-2
+     U801-2 D805-2 U701-B1 U701-D1 U701-E1 U701-G1 U701-M1 U701-T1 U701-E2
+     U701-J2 U701-B3 U701-D8 U701-E8 U701-G8 U701-J8 U701-A9 U701-B9 U701-F9
+     U701-G9 U701-M9 U701-P9 U701-T9 U701-P1 R703-2 C702-2 C701-2 C703-2
+     C704-2 C705-2 C706-2 C707-2 C708-2 C709-2 C710-2 C711-2 C712-2
+     C713-2 C714-2 C715-2 C716-2 C717-2 C722-2 C718-2 C720-2 C721-2
+     C719-2 C726-2 C725-2 C728-2 C727-2 C723-2 C724-2 C730-2 C729-2
+     C606-2 C605-2 C604-2 C603-2 C602-2 C601-2 C661-2 C660-2 C609-2
+     C608-2 C607-2 C662-2 C613-2 C612-2 C610-2 C611-2 C614-2 C615-2
+     C616-2 C617-2 C618-2 C619-2 U201-A9 C620-2 C666-2 C667-2 C668-2
+     C669-2 C626-2 C625-2 C624-2 C623-2 C622-2 C621-2 C628-2 C632-2
+     C627-2 C630-2 C629-2 C631-2 C635-2 C634-2 C637-2 C633-2 C636-2
+     C640-2 C639-2 C642-2 C638-2 C641-2 C645-2 C644-2 C647-2 C643-2
+     C646-2 C650-2 C649-2 C652-2 C648-2 C651-2 C663-2 C664-2 C654-2
+     C653-2 C655-2 C656-2 C665-2 C657-2 C658-2 C659-2 U201-N14 U201-M10
+     U201-J6 U201-N11 U201-E8 U201-N7 U201-M9 U201-K11 U201-L13 U201-L10 U201-G11
+     U201-V1 U201-M8 U201-J10 U201-J7 U201-G9 U201-F8 U201-A18 U201-V18 U201-M12
+     U201-K10 U201-M7 U201-L12 U201-G8 U201-A1 U201-V11 U201-K7 U201-J9 U201-H9
+     U201-H7 U201-H6 U201-N10 U201-K9 U201-M14 U201-H12 U201-A5 U201-M6 U201-L11
+     U201-J11 U201-H8 U201-J8 U201-H10 U201-G12 R401-1 R405-2 R403-2 R404-2
+     R402-2 R406-1 R407-1 R408-1 R416-1 R410-1 R411-1 R412-1 R413-1
+     R414-1 R415-1 R418-1 R421-1 R417-1 R419-1 R420-1 C302-2 C301-2
+     Y301-4 Y301-2 R311-1 R312-1 R201-2 C201-2)))
+)

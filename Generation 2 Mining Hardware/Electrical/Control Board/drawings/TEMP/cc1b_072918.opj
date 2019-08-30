@@ -1,0 +1,38 @@
+(ExpressProject ""
+  (ProjectType "UNKNOWN")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\cc1b_072918.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Action "3")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "Simulation Resources"
+    (Folder "In Design")
+    (Folder "Compiled")
+    (Folder "Timed"))
+  (GlobalState
+    (Physical 0)
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\projects\obelisk\CC1B_REVA\drawings\TEMP\cc1b_072918.dsn")
+      (Path "Design Resources"
+         "C:\projects\obelisk\CC1B_REVA\drawings\TEMP\cc1b_072918.dsn"
+         "CC1B_REVA")
+      (Select "Design Resources"
+         "C:\projects\obelisk\CC1B_REVA\drawings\TEMP\cc1b_072918.dsn"
+         "CC1B_REVA"))
+    (HierarchyView)
+    (Document
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 247 0 934"))
+      (Tab 0))))

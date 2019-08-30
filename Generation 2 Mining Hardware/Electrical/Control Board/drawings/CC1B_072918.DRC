@@ -1,0 +1,19 @@
+
+Checking for Invalid Pins in Package
+
+--------------------------------------------------
+Checking Schematic: CC1B_REVA
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Wires
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
