@@ -1,0 +1,33 @@
+Orchid Technologies Engineering & Consulting, Inc.        *ASSEMBLY*
+SC1B BOARD REV D                                           09-24-18
+
+
+GERBER & DRILL FILE FORMAT INFORMATION
+
+FORMAT          	RS274X  &  ASCII
+UNIT 				ENGLISH
+FORMAT	    		2.4  ABSOLUTE
+LTZEROS         	SUPPRESS LEADING ZEROS
+
+FILE NAME            DESCRIPTION                        FILETYPE
+=========            ===========                        ========
+SC1B_REVD_ASY.FYI     THIS FILE                     		README
+SC1B_REVD_PMT.GBR     SOLDER PASTE PRIMARY SIDE   		GERBER
+SC1B_REVD_PMB.GBR     SOLDER PASTE SECONDARY SIDE		GERBER
+SC1B_REVD_X-Y.XLS     PICK AND PLACE DATA           		EXCEL
+SC1B_REVD_AS1.PDF     ASSEMBLY DWG PRIMARY SIDE    		PDF
+SC1B_REVD_AS2.PDF     ASSEMBLY DWG SECONDARY SIDE		PDF
+SC1B_REVD_PDS.ASC     PADS DATABASE V2007         		ASCII
+SC1B_REVD_FAB.PDF     DRILL DWG                     		PDF
+
+
+
+ANY QUESTIONS REGARDING THIS DATA, CONTACTS ARE LISTED BELOW:
+
+Orchid Technologies Engineering and Consulting, Inc.
+147 Main St.
+Maynard, Ma.  01754
+TEL: 978-461-2000
+FAX: 978-461-2003
+
+Attn:  Paul Nickelsberg or Dean Craig

@@ -1,0 +1,33 @@
+Orchid Technologies Engineering & Consulting, Inc.    *ASSEMBLY*
+CC1B BOARD REV A                                       08-01-18
+
+
+GERBER & DRILL FILE FORMAT INFORMATION
+
+FORMAT          	RS274X  &  ASCII
+UNIT 				ENGLISH
+FORMAT	    		2.4  ABSOLUTE
+LTZEROS         	SUPPRESS LEADING ZEROS
+
+FILE NAME            DESCRIPTION                     FILETYPE
+=========            ===========                     ========
+CC1B_REVA_ASY.FYI    	THIS FILE                     	README
+CC1B_REVA_PMT.GBR    	SOLDER PASTE PRIMARY SIDE   	GERBER
+CC1B_REVA_PMB.GBR	SOLDER PASTE SECONDARY SIDE	GERBER
+CC1B_REVA_X-Y.XLS    	PICK AND PLACE DATA           	EXCEL
+CC1B_REVA_AS1.PDF    	ASSEMBLY DWG PRIMARY SIDE    	PDF
+CC1B_REVA_AS2.PDF	ASSEMBLY DWG SECONDARY SIDE	PDF
+CC1B_REVA_PDS.ASC    	PADS DATABASE V5.0         	ASCII
+CC1B_REVA_FAB.PDF   	DRILL DWG                     	PDF
+
+
+
+ANY QUESTIONS REGARDING THIS DATA, CONTACTS ARE LISTED BELOW:
+
+Orchid Technologies Engineering and Consulting, Inc.
+147 Main St.
+Maynard, Ma.  01754
+TEL: 978-461-2000
+FAX: 978-461-2003
+
+Attn:  Paul Nickelsberg or Dean Craig
